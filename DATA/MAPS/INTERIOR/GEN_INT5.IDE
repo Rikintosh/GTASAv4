@@ -1,0 +1,115 @@
+objs
+14920, ammunationwwws01, genintamm, 100, 4
+14921, int_barberA07, genintintbarberA, 20, 4
+14922, int_barberA02, genintintbarberA, 20, 4
+14923, int_barberA03, genintintbarberA, 60, 0
+14924, int_barberA05, genintintbarberA, 20, 4
+14925, int_barberA01, genintintbarberA, 30, 0
+14926, int_barberA08, genintintbarberA, 30, 0
+14927, int_barberA12, int_cutbar3, 40, 0
+14928, int_clothingA01, intclothesA, 75, 0
+14929, int_rest_main, genintrestrest1, 100, 4
+14930, int_3rest_lights, genintrestrest2, 30, 128
+14931, int_rest_veg02, genintgtatrees, 30, 132
+14932, int_rest_veg01, genintgeneric, 35, 132
+14933, int_rest_veg3, genintgeneric, 45, 132
+14934, int_rest_veg03, genintgeneric, 45, 132
+14935, int_rest_veg04, genintgeneric, 45, 132
+14936, int_rest_canopy, genintrestrest2, 30, 128
+14937, int_rest_counchs, genintrestrest2, 30, 128
+14938, int_bars, genintintbarB, 100, 0
+14939, int_burger_furn, genintintfastB, 30, 0
+14940, int_6burger_main, genintintfastB2, 50, 0
+14941, int_din_donut_main, genintintfastD, 50, 0
+14942, int_chick_main, genintintfastA, 50, 0
+14943, int_pizzaplace, genintintfastc, 100, 0
+14944, int_clothe_ship, intclotheshiphop, 50, 0
+14945, clothes_sports, genintclothessport, 50, 0
+14946, clothes_shit, SCUMMY, 50, 0
+14947, CJ_BARB_2, CJ_BARB2, 100, 0
+14948, smllbarinterior, CJ_BAR2, 70, 0
+14949, smllrestaurant, genintintsmallrest, 100, 0
+14950, GAP, GAP, 100, 0
+14951, clothesexl, CJ_EXP, 100, 0
+14952, range_xtras2, range_xtras2, 30, 0
+14953, munation_main, munation1, 50, 0
+14954, munation_xtras1, munation_xtras, 100, 4
+14955, munation_xtras2, munation_xtras2, 30, 0
+14956, range_main, range_main, 60, 0
+14957, kev_ammun, kev_ammu, 50, 0
+14958, Gun-Shop-Vegas, vegas_munation, 75, 0
+14959, vg_mun_opac2, vg_mun_extars5, 30, 0
+14960, vg_mun_xtras4, vg_xtras1, 30, 0
+14961, vg_mun_xtras3, vg_mun_extars5, 30, 0
+14962, gun_counter09, vg_mun_counter, 30, 0
+14963, vg_mun_signs, vg_mun_extra2, 30, 0
+14964, mp_ammu04, gen_mun_xtras3, 100, 0
+14965, mp_ammu01, gen_munation, 30, 0
+14966, mp_ammu03, gen_mun_xtra1, 30, 0
+14967, mpgun_counter06, gen_mun_counter, 30, 4
+14968, mp_ammu02, gen_mun_xtars2, 30, 4
+14969, ammu_twofloor, ammu_twofloor, 50, 0
+14970, range_opac01, ammu_2flrprops, 50, 0
+14971, range_xtras03, ammu_2flrprops, 50, 0
+14972, munation_xtras03, ammu_2flrprops, 50, 0
+14973, munation_xtras04, ammu_2flrprops, 50, 0
+14974, munation_xtras05, ammu_2flrprops, 50, 4
+14975, smllrestseats, genintsmlrst_split, 100, 0
+14976, mp_dinerbig, mp_diner1, 50, 0
+14977, table-plain, mp_diner1, 50, 0
+14978, mp_dinersmall, mp_diner2, 50, 0
+14979, tables, mp_diner2, 50, 0
+14980, big_seats, mp_diner2, 50, 0
+14981, condiments07, mp_diner2, 50, 0
+14982, ab_sfAmmuItems01, ab_sfAmmuItems01, 50, 0
+14983, ab_sfAmmuItems02, ab_sfAmmuItems02, 50, 0
+14984, ab_sfAmmuUnits, ab_sfAmmuUnits, 50, 0
+14985, ab_sfAmmuMain, ab_sfAmmuMain, 50, 0
+14986, posterv, genintclothessport, 50, 0
+14987, blood-splat, intclothes_acc, 75, 4
+14988, clothes-spot, intclotheshiphop, 50, 0
+14989, clothes_sports2, genintclothessport, 50, 0
+14990, GAP_COUNTER, GAP, 100, 0
+14991, Gap_Shadow, GAP, 100, 4
+14992, GAP_WINDOW, gap, 100, 0
+14993, Sub_shadow, intclotheshiphop, 50, 4
+14994, Donut_rail, genintintfastD, 50, 0
+14995, lightD, genintintfastD, 50, 0
+14997, din_donut_furn, dinerseat3b, 100, 0
+14998, CJ_BARB_2_acc, CJ_BARB2, 100, 0
+14999, BARB_CURTAIN, CJ_BARB2, 100, 4
+15000, DONUT_BLINDS, CHICK_BLIND, 50, 2097280
+15001, CJ_AB_Barber2_2, cj_barb, 50, 0
+15002, CJ_Barber2, cj_barb, 50, 0
+15003, CJ_Barber2_1, cj_barb, 50, 0
+15004, BARBER_BLINDS, cj_barb, 50, 2097156
+15005, Object01hjk, cj_barb, 50, 4
+15006, B_Lights, cj_barb, 50, 0
+15008, cj_changing_room, CJ_CHANGE_ROOM, 50, 0
+15009, DISCO_FENCE, genintintbarB2, 50, 4
+15010, Bar_BAR1, genintintbarB, 50, 0
+15011, CJ_BAR_2_DETAILS, CJ_BAR2, 50, 4
+15012, ammun3_counter, ammu_twofloor, 50, 0
+15014, CJ_SWEATER_F_71, intclothesA2, 100, 0
+15015, BARBER_BLINDS02, cj_barb, 50, 2097156
+15018, BARBER_BLINDS03, cj_barb, 50, 2097156
+15019, cj_RUBBISH, rubb, 50, 4
+15020, cj_RUBBISH01, rubb, 50, 4
+15021, cj_RUBBISH02, rubb, 50, 4
+end
+tobj
+14996, SHAD_1, SCUMMY, 50, 4, 6, 21
+15007, DONUT_BLINDS2, CHICK_BLIND, 50, 2097284, 6, 21
+15013, LIGHT_SHARD_, cj_barb, 50, 2097156, 6, 21
+15016, LIGHT_SHARD_06, cj_barb, 50, 2097156, 6, 21
+15017, LIGHT_SHARD_07, cj_barb, 50, 2097156, 6, 21
+end
+path
+end
+2dfx
+end
+anim
+15022 ,Light_box1 ,cj_dl2 ,gen_int5 ,50 ,2097284
+end
+txdp
+end
