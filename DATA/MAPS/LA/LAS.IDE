@@ -1,0 +1,319 @@
+objs
+4766, BTOLAND8_LAS, ground5_las, 150, 0
+4767, LAroads_20gh_LAs, lasroads_las, 150, 0
+4768, LAroadss_30_LAs, lasroads_las, 150, 0
+4769, LAroads_05_LAs, freeway_las, 170, 2097152
+4770, hillpalos04_LAs, griffobs_las, 250, 2097152
+4771, clifftest02, beach_las, 150, 0
+4772, clifftest05, beach_las, 150, 0
+4773, clifftest07, beach_las, 180, 0
+4774, clifftest09, beach_las, 150, 0
+4775, clifftestgrnd2, beach_las, 150, 0
+4776, ROCKLIFF1_LAS, beach_las, 150, 0
+4777, TRNTRK7_LAS, traintrack_las, 150, 0
+4778, TRNTRK8_LAS, traintrack_las, 100, 0
+4779, TRNTRK5_LAS, traintrack_las, 150, 0
+4780, BTOLAND1_LAS, ground4_las, 180, 0
+4781, BTOLAND2_LAS, union_las, 150, 0
+4782, NWCSTRD1_LAS, freeway2_las, 170, 2097152
+4783, lasgrifroad, griffobs_las, 150, 0
+4784, lasgrifsteps2, griffobs_las, 150, 0
+4785, griffithoblas, griffobs_las, 150, 0
+4786, grifftop2, griffobs_las, 150, 0
+4787, LAroads_20ghi_LAs, lasroads_las, 160, 0
+4788, lasairprt5, airport3_las, 175, 0
+4789, lasairprt4, airport_las, 180, 0
+4790, lasairprt3, airport2, 150, 0
+4791, airpurt2_las, airport2, 170, 2097152
+4792, airtwer_Las, airport3_las, 180, 4
+4793, airpurtder_las, airprtrunway_las, 200, 0
+4794, airoad1d_LAS, freeway_las, 220, 2097152
+4795, airoad1b_LAS, airoads_las, 200, 0
+4796, LAroadsx_04_LAs, freeway_las, 150, 0
+4797, LApedhusrea_LAs, lasroads_las, 150, 0
+4798, airpurtderfr_las, airprtrunway_las, 200, 0
+4799, bchcostrd3_LAS, freeway_las, 150, 2097152
+4800, bchcostrd4_LAS, freeway_las, 180, 0
+4801, bchcostrd1_LAS, freeway2_las, 175, 2097152
+4802, Beach1_LAs0fg, beach_las, 299, 0
+4803, Beach1_LAs0fhy, beach_las, 180, 0
+4804, Beach1_LAs04, beach_las, 299, 0
+4805, hillpalos02_LAs, griffobs_las, 250, 2097152
+4806, LAcityped1_LAs, lasroads_las, 170, 0
+4807, Beach1_LAs0gj, beach_las, 299, 0
+4808, sanpedbeaut, ground5_las, 50, 4
+4809, snpdmshfnc3_LAS, ground3_las, 170, 0
+4810, snpedshpblk07, oldshops_las, 150, 0
+4811, hillpalos01_LAs, griffobs_las, 250, 2097152
+4812, hillpalos03_LAs, griffobs_las, 250, 2097152
+4813, traincano_LAS, union_las, 150, 0
+4814, lasundrairprt2, airport_las, 180, 0
+4815, lasundrairprt1, airoads_las, 150, 2097156
+4816, lasundrairprt3, airoads_las, 150, 2097156
+4817, snpedmtsp1_LAS, oldshops_las, 75, 0
+4818, snpedland1_LAS, ground5_las, 150, 0
+4819, snpedland2_LAS, ground5_las, 150, 0
+4820, unionstwar_LAS, railway_las, 150, 4
+4821, snpedhuair2_LAS, ground4_las, 150, 0
+4822, airtun2_LAS, airprtrunway_las, 170, 2097156
+4823, airtun1_LAS, airprtrunway_las, 175, 2097152
+4824, airtun3_LAS, airprtrunway_las, 150, 2097152
+4825, lasrnway2_LAS, airprtrunway_las, 250, 0
+4826, lasrnway1_LAS, airprtrunway_las, 250, 0
+4827, lasrnway3_LAS, airprtrunway_las, 250, 0
+4828, LAroads_23_LAs, freeway2_las, 180, 2097152
+4829, lasrnway8_LAS, airprtrunway_las, 250, 2097152
+4830, airpurt2ax_las, airoads_las, 175, 0
+4831, airpurt2bx_las, airoads_las, 150, 0
+4832, LAroads_042e_LAs, freeway_las, 200, 2097152
+4833, unionstwarc2_LAS, railway_las, 150, 0
+4834, Helipad1_las, airport_las, 100, 2097156
+4835, hillpalos06_LAs, griffobs_las, 250, 2097152
+4836, hillpalos08_LAs, griffobs_las, 150, 0
+4837, dwntwnbit4_LAS, downtown1_las, 100, 0
+4838, obcity1_LAS, lasroads_las, 150, 2097152
+4839, hillpaloswal1_LAs, griffobs_las, 210, 0
+4840, dwntwnbit2_LAS, downtown3_las, 100, 2097152
+4841, uninstps_LAS01, railway_las, 100, 4
+4842, lasbrid1_LAS, ground5_las, 150, 2097156
+4843, bchcostair_LAS, freeway_las, 180, 2097152
+4844, lastranentun1_LAS, traintrack_las, 180, 0
+4845, lastranentun4_LAS, traintrack_las, 190, 2097152
+4846, gngspwnhus1_LAS, ground4_las, 150, 0
+4847, dwntwnbit1_LAS, downtown_las, 100, 2097152
+4848, dwntwnbit3_LAS, downtown1_las, 100, 2097152
+4849, dwntwnbit2b_LAS, downtown3_las, 100, 0
+4850, lasairprterm2_LAS, airport2, 170, 2097156
+4851, billboard_LAS, wiresetc_las, 120, 0
+4852, kbsgarage2_LAS, kbgarage_las, 100, 0
+4853, LODtwnbit4_LAS01, lod3_las, 450, 0
+4854, dwntwnbit1b_LAS, downtown_las, 100, 2097152
+4855, lstrud_LAS, lasroads_las, 150, 0
+4856, clifftest12, beach_las, 150, 0
+4857, Beach1a1_LAs, beach_las, 250, 0
+4858, clifftestgrnd, beach_las, 150, 0
+4859, LODtwnbit3_LAS01, lod3_las, 450, 0
+4860, LODtwnbit2b_LAS01, lod3_las, 450, 0
+4861, LODtwnbit2_LAS01, lod3_las, 450, 0
+4862, LODalos01_LAs01, lod3_las, 650, 0
+4863, LODfftest07, lod3_las, 650, 0
+4864, LODoads_05_LAs01, lod3_las, 450, 0
+4865, LODch1a1_LAs01, lod3_las, 450, 0
+4866, LODfftest12, lod3_las, 450, 0
+4867, LODfftestgrnd, lod3_las, 450, 0
+4868, LODftest05, lod3_las, 650, 0
+4869, LODfftestgrnd03, lod3_las, 450, 0
+4870, LODfftest09, lod3_las, 450, 0
+4871, LODcostrd4_LAS01, lod3_las, 450, 0
+4872, LODKLIFF1_LAS01, lod3_las, 450, 0
+4873, LODfftest02, lod3_las, 650, 0
+4874, LODlpalos02_LAs01, lod3_las, 650, 0
+4875, LODlpalos04_LAs01, lod3_las, 650, 0
+4876, LODlpalos06_LAs01, lod3_las, 600, 0
+4877, LODffithoblas01, lod3_las, 450, 0
+4878, LODlpalos03_LAs01, lod3_las, 600, 0
+4879, LODgrifroad01, lod3_las, 600, 0
+4880, LODgrifsteps03, lod3_las, 450, 0
+4881, LODlpaloswal1_LAs01, lod3_las, 450, 0
+4882, LODoad1d_LAS01, lod3_las, 450, 0
+4883, LODoadsx_04_LAs01, lod3_las, 450, 0
+4884, LODoads_042e_LAs01, lod2_las, 450, 0
+4885, LODlpalos08_LAs01, lod3_las, 450, 0
+4886, LODity1_LAS01, lod3_las, 450, 0
+4887, LODtwnbit1b_LAS01, lod3_las, 450, 0
+4888, LODObject02, lod3_las, 450, 0
+4889, LODcostair_LAS01, lod3_las, 450, 0
+4890, LODcostrd3_LAS01, lod3_las, 450, 0
+4891, LODch1_LAs0fhy01, lod3_las, 450, 0
+4892, LODch1_LAs0fg01, lod3_las, 450, 0
+4893, LODch1_LAs0gj01, lod3_las, 450, 0
+4894, LODtun1_LAS01, lod3_las, 450, 0
+4895, LODtun2_LAS01, lod2_las, 450, 0
+4896, LODrnway2_LAS, lod3_las, 450, 0
+4897, LODrnway1_LAS, lod3_las, 450, 0
+4898, LODrnway3_LAS, lod3_las, 450, 0
+4899, LODrnway4_LAS01, lod3_las, 450, 0
+4900, LODpurtderfr_las01, lod3_las, 450, 0
+4901, LODoad1b_LAS01, lod3_las, 450, 0
+4902, LODairprt5, lod3_las, 450, 0
+4903, LODpurtder_las01, lod3_las, 450, 0
+4904, LODpurt2ax_las01, lod3_las, 450, 0
+4905, LODpurt2bx_las01, lod3_las, 450, 0
+4906, LODairprterm2_LAS, lod3_las, 450, 0
+4907, LODairprt3, lod3_las, 450, 0
+4908, LODtwer_Las01, lod3_las, 450, 0
+4909, LODipad1_las01, lod3_las, 450, 0
+4910, LODpurt2_las01, lod3_las, 450, 0
+4911, LODairprt4, lod3_las, 600, 0
+4912, LODLAND1_LAS01, lod2_las, 450, 0
+4913, LODityped1_LAs01, lod2_las, 450, 0
+4914, LODrnway8_LAS, lod2_las, 450, 0
+4915, LODrnway7_LAS, lod2_las, 450, 0
+4916, LODrnway5_LAS, lod2_las, 450, 2097152
+4917, LODch1_LAs05, lod2_las, 450, 0
+4918, LODtun3_LAS01, lod2_las, 450, 0
+4919, LODcostrd1_LAS01, lod2_las, 450, 0
+4920, LODoads_20ghi_LAs01, lod2_las, 450, 0
+4921, LODLAND2_LAS01, lod2_las, 450, 0
+4922, LODTRK8_LAS01, lod2_las, 450, 0
+4923, LODTRK7_LAS01, lod2_las, 450, 0
+4924, LODonstwar_LAS01, lod2_las, 450, 0
+4925, LODonstwarc2_LAS01, lod2_las, 450, 0
+4926, LODedland2_LAS01, lod2_las, 450, 0
+4927, LODoadss_30_LAs01, lod2_las, 450, 0
+4928, LODedhusrea_LAs01, lod2_las, 450, 0
+4929, LODtripx1_LAS, lod2_las, 450, 0
+4930, LODLAND8_LAS01, lod2_las, 450, 0
+4931, LODTRK5_LAS01, lod2_las, 450, 0
+4932, LODedhuair2_LAS01, lod2_las, 450, 0
+4933, LODspwnhus1_LAS01, lod2_las, 450, 0
+4934, LODrud_LAS01, lod2_las, 450, 2097152
+4935, LODedland1_LAS01, lod2_las, 450, 0
+4936, LODpedbeaut01, lod2_las, 450, 0
+4937, LODROAD1vb_LAS01, lod2_las, 450, 0
+4938, LODedshpblk08, lod2_las, 450, 0
+4939, LODedmtsp1_LAS01, lod2_las, 450, 0
+4940, LODSTRD1_LAS01, lod2_las, 450, 0
+4941, snpedteew1_LAS, wiresetc2_las, 100, 2097156
+4942, snpedteew3_LAS, wiresetc_las, 100, 2097156
+4943, snpedteew1vv_LAS, wiresetc2_las, 100, 2097156
+4944, snpedteew3gt_LAS, wiresetc_las, 120, 2097156
+4945, Cylinder03, airport2, 170, 2097156
+4946, odfwer_LAS, griffobs_las, 150, 2097156
+4947, LODfftop03, lod3_las, 450, 0
+4948, lasbillbrd1_las, wiresetc_las, 150, 0
+4949, LODgarage2_LAS01, lod2_las, 450, 0
+4950, airprtwlkto1_LAS, airport2, 180, 0
+4951, lasairprterm1_LAS, airport2, 170, 2097156
+4952, airplants_LAS, airportdetail, 150, 2097156
+4953, airplnt2_LAS, airportdetail, 70, 2097156
+4954, airbillb_LAS, airportdetail, 70, 4
+4955, airsinage_LAS, airportdetail, 100, 4
+4956, airsinage2_LAS, airportdetail, 100, 4
+4957, airsinage3_LAS, airportdetail, 70, 4
+4958, airsinage4_LAS, airportdetail, 70, 4
+4959, airsinage6_LAS, airportdetail, 70, 4
+4960, airsinage5_LAS, airportdetail, 70, 4
+4961, lasrunwall2_LAS, airprtrunway_las, 150, 2097156
+4962, lasrnway4_LAS, airprtrunway_las, 250, 0
+4963, lasrnway5_LAS, airprtrunway_las, 250, 2097152
+4964, lasrnway6_LAS, airprtrunway_las, 270, 2097152
+4965, lasrunwall1_LAS, airprtrunway_las, 190, 2097156
+4966, airprtwlkto2_LAS, airport2, 150, 0
+4967, lasrunwall3_LAS, airprtrunway_las, 150, 2097156
+4968, LODrnway6_LAS, lod2_las, 450, 2097152
+4969, lasrnway7_LAS, airprtrunway_las, 250, 2097152
+4970, LODprtwlkto1_LAS, lod3_las, 450, 0
+4971, LODprtwlkto2_LAS, lod2_las, 450, 0
+4972, LODairprterm1_LAS, lod3_las, 450, 0
+4973, LAroakt1_30_LAs, lasroads_las, 150, 0
+4974, LODoakt1_30_LAs, lod2_las, 450, 0
+4975, LODoads_20gh_LAs01, lod2_las, 450, 0
+4976, snpdPESS1_LAS, ground3_las, 100, 0
+4977, lastripx1_LAS, ground3_las, 100, 0
+4978, LODdmshfnc3_LAS, lod2_las, 450, 0
+4979, LODdPESS1_LAS, lod2_las, 450, 0
+4980, mul_LAS, ground4_las, 100, 2048
+4981, LAroadsbrk_05_LAs, freeway_las, 200, 2097152
+4982, LODoadsbrk_05_LAs, lod3_las, 450, 0
+4983, grifovrhang2_LAS, beach_las, 150, 2097156
+4984, snpedtee_LAS, wiresetc2_las, 150, 2097156
+4985, snpedtedc_LAS, wiresetc_las, 100, 2097156
+4986, lstrudct1_LAS, lasroads_las, 150, 0
+4987, LODrudct1_LAS, lod2_las, 450, 0
+4988, obcity1ct1_LAS, lasroads_las, 180, 2097152
+4989, LODity1ct1_LAS, lod3_las, 450, 0
+4990, lasrunwall1ct_LAS, airprtrunway_las, 150, 2097156
+4991, snpedteairt_LAS, wiresetc2_las, 150, 2097156
+4992, las_runsigns_LAS, airprtrunway_las, 150, 0
+4993, unmainstat_LAS, union_las, 180, 2097152
+4994, lasairprtcut4, airport_las, 180, 0
+4995, LODairprtcut4, lod3_las, 600, 0
+4996, BTOLAND1ct_LAS, ground4_las, 150, 0
+4997, LODLAND1ct_LAS, lod2_las, 450, 0
+4998, airtun2ct_LAS, airprtrunway_las, 180, 2097156
+4999, LODtun2ct_LAS01, lod3_las, 450, 0
+5000, unionliq_LAS, shopliquor_las, 150, 2097152
+5001, LODonliq_LAS01, lod2_las, 450, 0
+5002, bombshop_LAs, bombshop_las, 100, 0
+5003, bombdoor_LAs, shopliquor_las, 100, 2048
+5004, las_runsignsx_LAS, airprtrunway_las, 170, 0
+5005, LODoads_23_LAs, lod2_las, 450, 0
+5006, bchcostrd4fuk_LAS, freeway_las, 180, 2097152
+5007, LODcostrd4fuk_LAS, lod3_las, 450, 0
+5008, LODundrairprt3, lod3_las, 450, 0
+5009, LODundrairprt1, lod3_las, 450, 0
+5010, LODundrairprt2, lod3_las, 450, 0
+5011, airobarsjm_LAS, freeway_las, 150, 2097152
+5012, BTOROAD1vb_LAS, lasroads_las, 150, 4
+5013, lodtranentun4_LAS, lod2_las, 450, 0
+5014, lodtranentun1_LAS, lod2_las, 450, 0
+5015, lodainstat_LAS, lod2_las, 450, 0
+5016, modLAS, kbgarage_las, 100, 2048
+5020, crlsafhus_LAS, kbgarage_las, 100, 0
+5021, lascarl, kbgarage_las, 100, 2048
+5022, hillpawfnce_LAs, griffobs_las, 150, 2097156
+5023, lodbrid1_LAS, lod2_las, 450, 0
+5024, TRNTRK5z_LAS, traintrack_las, 150, 0
+5025, LODTRK5z_LAS, lod2_las, 450, 0
+5026, mondoshave_LAS, downtown_las, 100, 2097152
+5027, LODnstps_LAS01, lod2_las, 450, 0
+5028, airctsjm1_las, airprtrunway_las, 175, 2097152
+5029, ctscene1_las, ctscene_las, 50, 4
+5030, sjmctfnce1_las, freeway2_las, 170, 2097156
+5031, sjmctfnce2_las, freeway2_las, 175, 2097152
+5032, sjmctfnce3_las, airprtrunway_las, 150, 2097152
+5033, sjmctfnce4_las, freeway2_las, 180, 2097152
+5034, sjmctfnce5_las, airprtrunway_las, 250, 2097156
+5035, sjmctfnce6_las, freeway_las, 150, 2097156
+5036, sjmctfnce7_las, freeway_las, 180, 2097156
+5037, sjmctfnce8_las, airprtrunway_las, 250, 2097156
+5038, ctscene2_las, ctscene_las, 50, 4
+5039, sjmbarct1_LAS, lasroads_las, 150, 2097156
+5040, sjmbarct2_LAS, lasroads_las, 180, 2097156
+5041, rdcrashbar1_LAs, freeway_las, 200, 2097156
+5042, rdcrashbar2_LAs, freeway_las, 170, 2097156
+end
+tobj
+5017, lanitewin1_LAS, nitewin_las, 700, 12, 20, 6
+5018, lanitewin2_LAS, nitewin_las, 700, 12, 20, 6
+5019, lanitewin3_LAS, nitewin_las, 700, 12, 20, 6
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+freeway_las,gb_laroads
+airport_las,gb_laroads
+freeway2_las,gb_laroads
+griffobs_las,gb_laroads
+airoads_las,gb_laroads
+lasroads_las,gb_laroads
+wiresetc2_las,gb_lageneric
+wiresetc_las,gb_lageneric
+airport3_las,gb_la
+airportdetail,gb_la
+beach_las,gb_la
+bombshop_las,gb_la
+ctscene_las,gb_la
+downtown1_las,gb_la
+downtown3_las,gb_la
+downtown_las,gb_la
+ground3_las,gb_la
+ground4_las,gb_la
+ground5_las,gb_la
+kbgarage_las,gb_la
+lod2_las,gb_la
+lod3_las,gb_la
+nitewin_las,gb_la
+oldshops_las,gb_la
+railway_las,gb_la
+shopliquor_las,gb_la
+traintrack_las,gb_la
+union_las,gb_la
+airport2,gb_la
+airprtrunway_las,gb_la
+end

@@ -1,0 +1,294 @@
+objs
+6140, Beach01_LAw2, santamonicalaw2a, 180, 0
+6141, Beach02_LAw2, santamonicalaw2, 150, 4
+6142, venice03_laW2, beafron2_law2, 130, 128
+6143, pier04b_LAw2, pierb_law2, 100, 128
+6144, santahouse02_law2, bev_law2, 80, 132
+6145, santahouse04_law2, bev_law2, 80, 132
+6146, santahouse05_law2, santamonhus1, 80, 132
+6147, Pier02c_LAw2, pierc_law2, 100, 128
+6148, Pier02b_LAw2, pierc_law2, 100, 128
+6149, pier03b_LAw2, pierc_law2, 80, 132
+6150, RailTunn02_LAw2, railtunn1_law2, 200, 0
+6151, Roads30_LAw2, law2_roadsb, 150, 1
+6152, RailTunn01_LAw2, railtunn1_law2, 299, 0
+6153, lawborder2b_LAW2, lawland2, 120, 0
+6154, santahousegrp_law2, santamonhus, 80, 128
+6155, sanpedlithus_LAw2, lawland2, 150, 2097284
+6156, veropolice_LAW2, santamopollaw2, 80, 0
+6157, Beachut01_LAw2, santamonicalaw2, 150, 4
+6158, ferris01_LAw2, pierb_law2, 150, 128
+6159, pier03c_LAw2, pierc_law2, 80, 128
+6160, Pier04_LAw2, pierb_law2, 100, 0
+6161, Roads11_LAw2, law2_roadsb, 180, 1
+6162, Roads14_LAw2, law2_roadsb, 150, 1
+6163, Roads16_LAw2, law2_roadsb, 150, 1
+6164, Roads19_LAw2, law2_roadsb, 150, 1
+6165, Roads23_LAw2, law2_roadsb, 150, 1
+6166, Roads24_LAw2, law2_roadsb, 150, 1
+6167, Roads26_LAw2, law2_roadsb, 150, 1
+6168, Roads28_LAw2, law2_roadsb, 150, 1
+6169, Roads29_LAw2, law2_roadsb, 150, 1
+6170, Roads08_LAw2, law2_roadsb, 150, 1
+6171, Roads33_LAw2, law2_roadsb, 150, 1
+6172, BeaCliff03_LAw2, beacliff_law2, 150, 0
+6173, BeaCliff01_LAw2, beacliff_law2, 150, 0
+6174, Roads31_LAw2, law2_roadsb, 150, 1
+6175, BeaLand01_LAw2, beacliff_law2, 180, 128
+6176, Roads02_LAw2, law2_roadsb, 150, 1
+6177, Roads07_LAw2, law2_roadsb, 150, 1
+6178, Roads12_LAw2, law2_roadsb, 150, 1
+6179, Roads17_LAw2, law2_roadsb, 150, 1
+6180, Roads15_LAw2, law2_roadsb, 150, 1
+6181, Roads18_LAw2, law2_roadsb, 150, 1
+6182, Roads20_LAw2, law2_roadsb, 150, 1
+6183, Roads21_LAw2, law2_roadsb, 150, 1
+6184, Roads22_LAw2, law2_roadsb, 180, 1
+6185, Roads01_LAw2, law2_roadsb, 150, 1
+6186, Roads34_LAw2, law2_roadsb, 150, 1
+6187, Roads35_LAw2, law2_roadsb, 150, 1
+6188, sunset12_LAw2, sunset04_law2, 100, 128
+6189, Roads27_LAw2, law2_roadsb, 150, 1
+6190, Roads06_LAw2, law2_roadsb, 150, 1
+6191, Roads05_LAw2, law2_roadsb, 150, 1
+6192, rodeo01_LAw2, rodeo01_law2, 100, 128
+6193, Roads25_LAw2, law2_roadsb, 150, 1
+6194, rodeo02_LAw2, rodeo01_law2, 120, 128
+6195, LODeo02_LAw2, ealod_law2, 1500, 128
+6196, rodeo03_LAw2, sunset02_law2, 120, 0
+6197, sunset01_LAw2, sunset02_law2, 100, 0
+6198, sunset02_LAw2, sunset01_law2, 100, 128
+6199, LODeo03_LAw2, ealod_law2, 1500, 128
+6200, rodeo06_LAw2, rodeo05_law2, 100, 0
+6201, century02_LAw2, rodeo03_law2, 150, 0
+6202, century01_LAw2, rodeo03_law2, 150, 128
+6203, GeoPark01_LAw2, rodeoprk_law2, 150, 0
+6204, GeoParkTr_LAw2, rodeo04_law2, 100, 2097284
+6205, Roads04_LAw2, law2_roadsb, 150, 1
+6206, LODset02_LAw2, welod_law2, 1500, 128
+6207, BeaCliff04_LAw2, beacliff_law2, 100, 0
+6209, SunBils02_LAw2, sunbill_law2, 150, 132
+6210, SunBils01_LAw2, sunbill_law2, 120, 132
+6211, rodeo05_LAw2, rodeo02_law2, 130, 128
+6212, rodeo05Tr_LAw2, rodeo02_law2, 110, 2097284
+6213, SunBils04_LAw2, sunbill_law2, 150, 132
+6214, Sunset04_LAw2, sunset03_law2, 80, 128
+6215, Sunset05_LAw2, sunset03_law2, 80, 128
+6216, Sunset06_LAw2, sunset03_law2, 100, 128
+6217, Sunset04Tr_LAw2, sunstrans_law2, 140, 2097284
+6218, LODset04_LAw2, welod_law2, 1000, 128
+6219, LODset05_LAw2, welod_law2, 1000, 128
+6220, LODds35_LAw2, welod_law2, 1500, 128
+6221, LODds34_LAw2, welod_law2, 1500, 128
+6222, Roads34Tr_LAw2, sunstrans_law2, 150, 2097284
+6223, sunset02Tr_LAw2, sunstrans_law2, 150, 2097284
+6224, sunset07_LAw2, sunset02_law2, 120, 0
+6225, LODset07_LAw2, ealod_law2, 1500, 128
+6226, sunset08_LAw2, rodeo02_law2, 130, 128
+6227, LODset08_LAw2, welod_law2, 1500, 128
+6228, sunset03_LAw2, sunset01_law2, 120, 2097280
+6229, sunset09_LAw2, sunset04_law2, 100, 0
+6230, rodeo06Tr_LAw2, rodeo05_law2, 100, 2097284
+6231, rodeo04_LAw2, rodeo05_law2, 110, 2097152
+6232, rodeo04Tr_LAw2, rodeo05_law2, 100, 2097284
+6233, sunset11_LAw2, sunset01_law2, 100, 128
+6234, LODset03_LAw2, welod_law2, 1500, 128
+6235, LODset11_LAw2, welod_law2, 1500, 128
+6236, LODds20_LAw2, ealod_law2, 1000, 128
+6237, LODds06_LAw2, ealod_law2, 1000, 128
+6238, LODds27_LAw2, ealod_law2, 1000, 128
+6239, LODds14_LAw2, ealod_law2, 1000, 128
+6240, LODds22_LAw2, ealod_law2, 1000, 128
+6241, LODds19_LAw2, welod_law2, 1500, 128
+6242, LODds05_LAw2, welod_law2, 1500, 128
+6243, LODds16_LAw2, welod_law2, 1500, 128
+6244, LODds21_LAw2, welod_law2, 1500, 128
+6245, rodeo02Tr_LAw2, rodeot01_law2, 100, 2097284
+6246, century02Tr_LAw2, rodeo04_law2, 100, 2097284
+6247, century03_LAw2, rodeo03_law2, 150, 128
+6248, SanClifft02_LAw2, sancliff02_law2, 120, 128
+6249, SanClift01_LAw2, sancliff02_law2, 150, 128
+6250, SanClifft04_LAw2, sancliff_law2, 100, 2097280
+6251, SanClifft05_LAw2, sancliff_law2, 130, 0
+6252, LODClifft04_LAw2, welod_law2, 1500, 128
+6253, SanCliff04Tr_LAw2, sancliff_law2, 100, 2097284
+6254, LODClifft05_LAw2, welod_law2, 1500, 128
+6255, LODClifft02_LAw2, ealod_law2, 1500, 128
+6256, LODClift01_LAw2, ealod_law2, 1000, 128
+6257, SanCliff02Tr_LAw2, sancliff_law2, 150, 2097284
+6258, BeaCliff06_LAw2, beacliff_law2, 150, 0
+6259, BeaCliff06Tr_LAw2, beacliff_law2, 100, 2097284
+6260, spraydoor_LAw2, beafron2_law2, 130, 2099328
+6261, LODCliff06_LAw2, ealod_law2, 1000, 128
+6262, LODCliff01_LAw2, welod_law2, 1500, 128
+6263, BeaCliff01Tr_LAw2, beacliff_law2, 100, 2097284
+6264, venice01b_LAw2, beafron1_law2, 100, 2097280
+6265, venice03Tr_laW2, beafron2_law2, 150, 2097284
+6266, venice04_LAw2, beafron2_law2, 100, 128
+6267, venice04Tr_LAw2, beafron2_law2, 150, 2097284
+6268, LODice03_laW2, ealod_law2, 1000, 128
+6269, LODice04_LAw2, ealod_law2, 1000, 128
+6270, LODice01b_LAw2, welod_law2, 1500, 128
+6271, venice01bT_LAw2, beafron1_law2, 100, 2097284
+6273, sunset07Tr_LAw2, sunstrans_law2, 110, 2097284
+6274, LODds01_LAw2, welod_law2, 1500, 128
+6275, sanpdliths_lod, welod_law2, 1000, 128
+6276, lawborder2a_LAW2, lawland2, 120, 0
+6277, lawborder2c_LAW2, lawland2, 100, 0
+6278, LODborder2a_LAW2, welod_law2, 1500, 128
+6279, LODborder2b_LAW2, welod_law2, 1500, 128
+6280, LODborder2c_LAW2, welod_law2, 1500, 128
+6281, BeaLanTr02_LAw2, beacliff_law2, 100, 2097284
+6282, rdsign01_LAw2, law2_roadsb, 150, 129
+6283, LODds31_LAw2, welod_law2, 1500, 128
+6284, LODLand01_LAw2, welod_law2, 1500, 128
+6285, LODds33_LAw2, welod_law2, 1500, 128
+6286, LODds03_LAw2, welod_law2, 1500, 128
+6287, Roads03_LAw2, law2_roadsb, 150, 1
+6288, Roads32_LAw2, law2_roadsb, 150, 1
+6289, LODds02_LAw2, welod_law2, 1500, 128
+6290, BeaLanTr01_LAw01, beacliff_law2, 100, 2097284
+6291, BeaLanTr03_LAw2, beacliff_law2, 100, 2097284
+6292, LODtahousegrp_law2, welod_law2, 1500, 128
+6293, LODtahouse04_law2, welod_law2, 1500, 128
+6294, LODtahouse02_law2, welod_law2, 1500, 128
+6295, LODtahouse05_law2, welod_law2, 1500, 128
+6296, santahouseTr_law2, santamonhus, 60, 2097284
+6297, LODch01_LAw2, welod_law2, 1500, 128
+6298, LODds32_LAw2, welod_law2, 1500, 128
+6299, LODds08_LAw2, welod_law2, 1500, 128
+6300, LODds29_LAw2, ealod_law2, 1000, 128
+6301, LODchut01_LAw2, welod_law2, 1500, 128
+6302, LODch02_LAw2, ealod_law2, 1000, 128
+6303, BeaCliff02_LAw2, beacliff_law2, 150, 0
+6304, BeaCliff02Tr_LAw2, beacliff_law2, 130, 2097284
+6305, LODCliff02_LAw2, welod_law2, 1500, 128
+6306, LODCliff03_LAw2, welod_law2, 1500, 128
+6307, LODCliff04_LAw2, welod_law2, 1500, 128
+6308, Pier01_LAw2, piera_law2, 120, 0
+6309, Pier02_LAw2, pierc_law2, 130, 0
+6310, Pier03_LAw2, pierc_law2, 130, 0
+6311, Pier01Tr_LAw2, piera_law2, 100, 2097284
+6312, LODr01_LAw2, welod_law2, 1500, 128
+6313, LODr02_LAw2, welod_law2, 1500, 128
+6314, LODr03_LAw2, welod_law2, 1500, 128
+6315, LODr04_LAw2, welod_law2, 1500, 128
+6316, LODr02b_LAw2, welod_law2, 1500, 128
+6317, Pier02Tr_LAw2, pierc_law2, 100, 2097284
+6318, pier03Tr_LAw2, pierc_law2, 100, 2097284
+6319, LODr03b_LAw2, welod_law2, 1500, 128
+6320, LODr03c_LAw2, welod_law2, 1500, 128
+6321, ferris01Tr_LAw2, pierb_law2, 150, 2097284
+6322, pier04a_LAw2, pierb_law2, 100, 128
+6323, LODris01_LAw2, welod_law2, 1500, 128
+6324, LODr04b_LAw2, welod_law2, 1500, 128
+6325, LODr04a_LAw2, welod_law2, 1500, 128
+6326, pier04Tr_LAw2, pierb_law2, 140, 2097284
+6327, LODds07_LAw2, welod_law2, 1500, 128
+6328, LODds18_LAw2, welod_law2, 1500, 128
+6329, LODds23_LAw2, welod_law2, 1500, 128
+6330, LODds25_LAw2, welod_law2, 1500, 128
+6331, LODds24_LAw2, welod_law2, 1500, 128
+6332, LODds26_LAw2, ealod_law2, 1500, 128
+6333, LODds28_LAw2, ealod_law2, 1000, 128
+6334, LODds30_LAw2, ealod_law2, 1000, 128
+6335, LODtury01_LAw2, welod_law2, 1500, 128
+6336, LODtury02_LAw2, welod_law2, 1500, 128
+6337, LODPark01_LAw03, welod_law2, 1500, 128
+6338, LODeo01_LAw2, ealod_law2, 1000, 128
+6339, LODeo04_LAw2, ealod_law2, 1500, 128
+6340, LODeo06_LAw2, ealod_law2, 1000, 128
+6341, LODeo05_LAw2, welod_law2, 1500, 128
+6342, LODset01_LAw2, ealod_law2, 1000, 128
+6343, LODds04_LAw2, welod_law2, 1500, 128
+6344, LODds15_LAw2, welod_law2, 1500, 128
+6345, LODds17_LAw2, welod_law2, 1500, 128
+6346, LODds12_LAw2, ealod_law2, 1000, 128
+6347, countclub01_LAw2, councl_law2, 150, 1
+6348, countclub02_LAw2, councl_law2, 200, 1
+6349, countclubTr_LAw2, councl_law2, 150, 2097157
+6350, tvstudio01_LAw2, tvstudio_law2, 150, 128
+6351, LODtudio01_LAw2, ealod_law2, 1000, 128
+6352, LODntclub02_LAw2, ealod_law2, 1000, 128
+6353, LODntclub01_LAw2, ealod_law2, 1000, 128
+6354, LODset06_LAw2, welod_law2, 1000, 128
+6355, LODset09_LAw2, welod_law2, 1500, 128
+6356, LODset12_LAw2, welod_law2, 1500, 128
+6357, sunset10_LAw2, sunse10b_law2, 100, 128
+6358, LODset10_LAw2, welod_law2, 1000, 128
+6359, sunset12Tr_LAw2, sunstrans_law2, 140, 2097284
+6360, LODds11_LAw2, ealod_law2, 1000, 128
+6361, RailTunn03_LAw2, railtunn1_law2, 200, 0
+6362, RailTunn04_LAw2, railtunn1_law2, 200, 0
+6363, LODlTunn01_LAw2, welod_law2, 1000, 128
+6364, LODlTunn03_LAw2, welod_law2, 450, 128
+6365, LODlTunn02_LAw2, welod_law2, 450, 128
+6366, LODlTunn04_LAw2, ealod_law2, 450, 128
+6367, Roads09_LAw2, law2_roadsb, 200, 1
+6368, Roads10_LAw2, law2_roadsb, 150, 1
+6369, Roads36_LAw2, law2_roadsb, 150, 1
+6370, LODds36_LAw2, ealod_law2, 1500, 128
+6371, LODds10_LAw2, ealod_law2, 1000, 128
+6372, LODds09_LAw2, ealod_law2, 1000, 128
+6373, tunblock_LAw2, law2_roadsb, 175, 1
+6374, tunent01_LAw2, law2_roadsb, 150, 1
+6375, LODent01_LAw2, ealod_law2, 1000, 128
+6376, tvstudioTr_LAw2, tvstudio_law2, 150, 132
+6377, santagard_LAw2, bev_law2, 60, 2180
+6382, country_law2, cuntclub_law2, 100, 128
+6383, LODntry_law2, ealod_law2, 1000, 128
+6384, rdsign01_LAw03, law2_roadsb, 100, 129
+6385, LODveropolice_LAW, ealod_law2, 450, 128
+end
+tobj
+6272, sunitwin01_LAw2, nightlights1_law2, 450, 140, 20, 6
+6378, LTS01_LAw2, nightlights1_law2, 600, 12, 20, 6
+6379, LTS02_LAw2, nightlights1_law2, 600, 12, 20, 6
+6380, LTS04_LAw2, nightlights1_law2, 600, 12, 20, 6
+6381, LTS03_LAw2, nightlights1_law2, 600, 12, 20, 6
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+law2_roadsb,gb_laroads
+councl_law2,gb_laroads
+beacliff_law2,gb_lageneric
+beafron1_law2,gb_lageneric
+beafron2_law2,gb_lageneric
+pierb_law2,gb_lageneric
+rodeo01_law2,gb_lageneric
+rodeo02_law2,gb_lageneric
+rodeo03_law2,gb_lageneric
+rodeo04_law2,gb_lageneric
+rodeo05_law2,gb_lageneric
+sancliff02_law2,gb_lageneric
+sancliff_law2,gb_lageneric
+sunset02_law2,gb_lageneric
+sunset04_law2,gb_lageneric
+sunset01_law2,gb_lageneric
+sunset03_law2,gb_lageneric
+sunstrans_law2,gb_lageneric
+bev_law2,gb_la
+cuntclub_law2,gb_la
+ealod_law2,gb_la
+lawland2,gb_la
+nightlights1_law2,gb_la
+piera_law2,gb_la
+pierc_law2,gb_la
+railtunn1_law2,gb_la
+rodeoprk_law2,gb_la
+rodeot01_law2,gb_la
+santamonhus,gb_la
+santamonhus1,gb_la
+santamonicalaw2,gb_la
+santamonicalaw2a,gb_la
+santamopollaw2,gb_la
+sunbill_law2,gb_la
+sunse10b_law2,gb_la
+tvstudio_law2,gb_la
+welod_law2,gb_la
+end

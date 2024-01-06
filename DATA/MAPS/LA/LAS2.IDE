@@ -1,0 +1,307 @@
+objs
+5045, Stordralas2, stormdrain_las2, 200, 0
+5046, Roadsbx_las2, lasraodnshops, 175, 0
+5047, chemplant2_las2, stormdrain_las2, 200, 0
+5048, LADocks2_las2, docks2_las2, 250, 0
+5049, sanpdmdock3_las2, docks_las2, 290, 0
+5050, mexcrnershp2_las2, lashops1_las2, 70, 0
+5051, IndusLand2_las2, ground2_las2, 130, 0
+5052, LAroads_26_las2, stormdrain_las2, 200, 0
+5053, BlockAA_las2, lasground_las2, 150, 0
+5054, Beach1_las2, beach_las2, 150, 0
+5055, las2chemdock1, docks2_las2, 180, 0
+5056, las2stripbar1, ground2_las2, 150, 0
+5057, TRNTRK4_las2, traintrack_las2, 180, 0
+5058, TRNTRK3_las2, traintrack_las2, 180, 0
+5059, TRNTRK4A_las2, traintrack_las2, 180, 0
+5060, BTOROAD3_las2, lasroads_las2, 150, 4
+5061, BTOLAND6_las2, lasroads_las2, 150, 0
+5062, BTOLAND5_las2, ground3_las2, 150, 0
+5063, NEWCOMP2_las2, chemgrnd_las2, 170, 0
+5064, NWCSTRD2_las2, freeway2_las2, 150, 0
+5065, NWCSTRD3_las2, freeway2_las2, 150, 4
+5066, dockcranescale0, imrancomp_las2, 100, 128
+5067, imcomp1trk, imrancomp_las2, 150, 0
+5068, BTOROAD1mnk_las2, lasroads_las2, 150, 2097152
+5069, imracompint_las2, imrancomp_las2, 50, 4
+5070, imcompstrs02, imrancomp_las2, 50, 128
+5071, imrancomp1_las2, imrancomp_las2, 150, 2097152
+5072, las2dkwar107, imstuff_las2, 35, 2097280
+5073, bchcostrd6_las2, coast_las2, 150, 0
+5074, snpedshprk_las2, wasteland_las2, 160, 0
+5075, brkwrhus02, groundb_las2, 125, 2097152
+5076, snpedshprk1_las2, wasteland_las2, 70, 0
+5077, brkwrhus3_las2, groundb_las2, 160, 0
+5078, snpdoldwrhs2_las2, ground_las2, 150, 2097284
+5079, sanpedro4_las2, wasteland_las2, 150, 0
+5080, snpedtatshp, industry3_las2, 50, 128
+5081, BTOROADxtra_las2, lasroads_las2, 150, 0
+5082, las2plaza1bit, lashops1b_las2, 130, 0
+5083, las2chendock04, stormdrain_las2, 200, 128
+5084, las2jmscum11, lasground_las2, 150, 0
+5085, sanpdmdock2_las2, docks_las2, 250, 0
+5086, sanpdmdock1_las2, docks_las2, 250, 0
+5087, sanpedbigbrid_las2, docks2_las2, 200, 4
+5088, bigstormbrid_las2, stormdrain_las2, 170, 128
+5089, scumest1_las2, lasground2_las2, 150, 0
+5090, SCUMWIRES1_las2, wiresetc_las2, 100, 2097284
+5091, carganghud_las2, lasground2_las2, 200, 0
+5092, stuntramp1_las2, ground_las2, 150, 0
+5093, stuntramp7_las2, ground_las2, 150, 0
+5094, dk_cargoshp03d, dkcargoshp_las2, 100, 128
+5095, dk_cargoshp05d, dkcargoshp_las2, 150, 128
+5096, dk_cargoshp24d, dkcargoshp_las2, 180, 128
+5097, dk_cargoshpd25d, dkcargoshp_las2, 150, 128
+5098, dk_cargoshp76d, dkcargoshp_las2, 150, 2097280
+5099, LODargohull2cd, lod_las2, 450, 2097280
+5100, dkcargohull2d, dkcargoshp_las2, 200, 128
+5101, LODcargoshp05d, lod_las2, 450, 128
+5102, LODcargoshp24d, lod_las2, 450, 128
+5103, LODcargoshp25d, lod_las2, 450, 128
+5104, LODcargoshp03d, lod_las2, 450, 128
+5105, LODcargoshp04d, lod_las2, 450, 128
+5106, dkcargohull2bd, dkcargoshp_las2, 200, 128
+5107, dkcargohull2cd, dkcargoshp_las2, 180, 128
+5108, cluckinbell1_las2, lashops6_las2, 120, 0
+5109, imnrmpy1_las2, ground_las2, 140, 4
+5110, imnrmpy2_las2, ground3_las2, 150, 0
+5111, dockoff01_LAs2, las2_dockoff, 50, 128
+5112, Beach1spt_las2, beach_las2, 150, 0
+5113, las2jmscum12, lasground_las2, 150, 0
+5114, sanpedmexq4_las2, warehus_las2, 150, 0
+5115, sanpedmexq3_las2, warehus_las2, 150, 0
+5116, sanpdmdocka_las2, docks_las2, 250, 0
+5117, las2stripsshp1, lashops1_las2, 150, 2097280
+5118, cutrdn1_las2, lasroads_las2, 150, 2097152
+5119, mexcrnershp_las2, lashops1b_las2, 70, 128
+5120, nwspltbild2_las2, lashops93_las2, 70, 0
+5121, nwspltbild3_las2, lashops93_las2, 80, 2097152
+5122, nwspltbild4_las2, lashops93_las2, 70, 0
+5123, nwspltbild1_las2, lashops93_las2, 70, 0
+5124, mdock1a_las2, docks2_las2, 150, 2097280
+5125, brkwrhusfuk_las2, groundb_las2, 150, 2097152
+5126, nwsnpdnw_las2, ground_las2, 150, 0
+5127, mexcrnrxc_las2, lashops1b_las2, 70, 0
+5128, nwrrdssplt_las2, freeway2_las2, 200, 0
+5129, ctddwwnblk_las2, industry3_las2, 70, 128
+5130, scrapfnce_las2, wiresetc_las2, 150, 2097156
+5131, nwdkbridd_las2, docks_las2, 150, 2097152
+5132, chemgrnd_las2, chemgrnd_las2, 150, 0
+5133, LODpdmdock3_las2, lod_las2, 450, 128
+5134, LODTRK4_las2, lod_las2, 450, 128
+5135, LODrhus3_las2, lod_las2, 450, 128
+5136, LODwrhus03, lod_las2, 450, 128
+5137, LODwrhusfuk_las2, lod_las2, 450, 128
+5138, LODdwwnblk_las2, lod_las2, 450, 128
+5139, LODedtatshp01, lod_las2, 450, 128
+5140, LODnpdnw_las2, lod_las2, 450, 128
+5141, LODedshprk1_las2, lod_las2, 450, 128
+5142, LODdoldwrhs2_las2, lod_las2, 450, 128
+5143, LODLAND6_las2, lod_las2, 450, 128
+5144, LODpedro4_las2, lod_las2, 450, 128
+5145, LODpltbild1_las2, lod_las2, 450, 128
+5146, LODpltbild2_las2, lod_las2, 450, 128
+5147, LODpltbild3_las2, lod_las2, 450, 128
+5148, LODpltbild4_las2, lod_las2, 450, 128
+5149, LODTRK3_las2, lod_las2, 450, 128
+5150, LODLAND5_las2, lod_las2, 450, 128
+5151, LODocks2_las2, lod_las2, 450, 128
+5152, LODSTRD2_las2, lod_las2, 450, 128
+5153, LODCOMP2_las2, lod_las2, 450, 128
+5154, LODomp1trk01, lod_las2, 450, 128
+5155, LODancomp1_las2, lod_las2, 450, 128
+5156, LODROAD3_las2, lod_las2, 450, 128
+5157, LODROADxtra_las2, lod_las2, 450, 128
+5158, LODusLand2_las2, lod_las2, 450, 128
+5159, LODpedmexq3_las2, lod_las2, 450, 128
+5160, LODSTRD3_las2, lod_las2, 450, 128
+5161, LODmgrnd_las2, lod_las2, 450, 128
+5162, LODstripbar02, lod_las2, 450, 128
+5163, LODpedmexq4_las2, lod_las2, 450, 128
+5164, LODckinbell1_las2, lod_las2, 450, 128
+5165, LODstpshp1a_las2, lod_las2, 450, 128
+5166, LODcrnershp2_las2, lod_las2, 450, 128
+5167, LODrdn1_las2, lod_las2, 450, 2097280
+5168, LODcrnershp2a_las, lod_las2, 450, 128
+5169, LODROAD1mnk_las2, lod_las2, 450, 2097280
+5170, LODplaza1bit01, lod_las2, 450, 128
+5171, snpedteew2_las2, wiresetc_las2, 150, 2097284
+5172, snpedteew9_las2, wiresetc_las2, 150, 2097284
+5173, snpedteew8_las2, wiresetc_las2, 70, 2097284
+5174, SCUMWFIRES1_las20, wiresetc_las2, 100, 2097284
+5175, LODpdmdock2_las2, lod_las2, 450, 128
+5176, LODpdmdock1_las2, lod_las2, 450, 128
+5177, lodpdmdocka_las2, lod_las2, 450, 128
+5178, LODch1spt_las2, lod_las2, 450, 128
+5179, LODckAA_las2, lod_las2, 450, 128
+5180, LODrdssplt_las2, lod_las2, 450, 128
+5181, lodganghud_las2, lod_las2, 450, 128
+5182, LODchendock04, lod_las2, 450, 128
+5183, RiverBridls_las2, stormdrain_las2, 150, 128
+5184, lasntrk1im03, imrancompyard_las, 70, 128
+5185, LODTRK4c_las2, lod_las2, 450, 128
+5186, lod_Stordralas01, lod_las2, 450, 128
+5187, lod_scumest1, lod_las2, 450, 128
+5188, lod_mexcrnershp, lod_las2, 450, 128
+5189, lod_mexcrnrxc, lod_las2, 450, 128
+5190, bchcostrd6v_las2, freeway2_las2, 180, 0
+5191, LODcostrd6v_las2, lod_las2, 450, 128
+5192, lod_chemdock, lod_las2, 450, 128
+5193, lod_mdock1a, lod_las2, 450, 128
+5194, lod_Beach1las2, lod_las2, 450, 128
+5195, lod_LAroads_26, lod_las2, 450, 128
+5196, lod_jmscum01, lod_las2, 450, 128
+5197, lod_bchcostrd6, lod_las2, 450, 128
+5198, lod_jmscum11, lod_las2, 450, 128
+5199, las2dkwar01, imstuff_las2, 50, 128
+5200, las2dkwar02, imstuff_las2, 36, 128
+5201, las2dkwar03, imstuff_las2, 25, 128
+5202, las2dkwar04, imstuff_las2, 36, 128
+5203, LODpedbigbrid_las2, lod_las2, 450, 128
+5204, lod_Roadsbx_las2, lod_las2, 450, 128
+5205, SCUMWFIRES1_las01, wiresetc_las2, 70, 2097284
+5206, snpedteew8_las01, wiresetc_las2, 120, 2097284
+5207, sanpedmexq1_las2, lashops91_las2, 70, 4
+5208, imracompral_las2, imrancomp_las2, 50, 132
+5209, las2dkwar05, imstuff_las2, 36, 128
+5210, StormDraifr1_las2, stormdrain2_las2, 200, 0
+5211, LAroads_24_las2, lasroads_las2, 150, 4
+5212, TRNTRK2_las2, traintrack_las2, 150, 0
+5213, BTOLAND4_las2, ground3_las2, 150, 0
+5214, StormDraifr2_las2, stormdrain2_las2, 150, 0
+5215, TRNTRK4A_las201, traintrack_las2, 150, 0
+5216, NEWCOMPRD_las2, freeway2_las2, 200, 0
+5217, NEWCMPTRK_las2, traintrack_las2, 150, 0
+5218, NEWCOMP1_las2, chemgrnd_las2, 150, 0
+5219, nwsnpdgrnd1_las2, ground_las2, 150, 0
+5220, LODnpdgrnd1_las2, lod_las2, 450, 128
+5221, LODrmDraifr1_las2, lod_las2, 450, 128
+5222, LODLAND4_las2, lod_las2, 450, 128
+5223, LODTRK2_las2, lod_las2, 450, 128
+5224, LODCOMPRD_las2, lod_las2, 450, 128
+5225, LODCOMP1_las2, lod_las2, 450, 128
+5226, LODrmDraifr2_las2, lod_las2, 450, 128
+5227, LODCMPTRK_las2, lod_las2, 450, 128
+5228, LODoads_24_las2, lod_las2, 450, 128
+5229, LODTRK4A_las202, lod_las2, 450, 128
+5230, SCUMWIRES1_las03, wiresetc_las2, 70, 2097284
+5231, snpedscrsap_las01, ground3_las2, 150, 0
+5232, snpedteew8_las03, wiresetc_las2, 100, 2097284
+5233, snpedteew8_las04, wiresetc_las2, 80, 2097284
+5234, snpedteew8_las05, wiresetc_las2, 100, 2097284
+5235, snpedteew8_las06, wiresetc_las2, 80, 2097284
+5236, LAroads_26a_las01, stormdrain_las2, 200, 0
+5237, LAroads_26b_las01, stormdrain_las2, 200, 0
+5238, bigstormbridb_las2, stormdrain_las2, 160, 128
+5239, las2_brigtower, chemgrnd_las2, 70, 128
+5240, las2_lodbrigtower, lod_las2, 450, 128
+5241, balcony_kbolt01, lasground_las2, 80, 0
+5242, burg_lkupdoor, lasground_las2, 150, 2048
+5243, LODnwdkbridd_las, lod_las2, 450, 128
+5244, LODdockcranescale, lod_las2, 450, 128
+5245, LODlasntrk1im, lod_las2, 450, 128
+5246, chemfence_las2, stormdrain_las2, 100, 2097284
+5247, lod_LAroads26b, lod_las2, 450, 128
+5248, balcony_kbolt02, lasground_las2, 80, 4
+5249, las2lnew3_las2, warehus_las2, 150, 0
+5250, las2lnew2_las2, warehus_las2, 150, 0
+5251, las2lnew1_las2, warehus_las2, 150, 0
+5252, snpedteevbg_las2, wiresetc_las2, 80, 2097284
+5253, newlas2sh_LAS2, ground_las2, 180, 2097284
+5254, NEWCOMfuk_las2, freeway2_las2, 220, 0
+5255, lodCOMfuk_las2, lod_las2, 450, 128
+5256, lodlas2sh_LAS2, lod_las2, 450, 128
+5257, lod2lnew3_las2, lod_las2, 450, 128
+5258, lod2lnew2_las2, lod_las2, 450, 128
+5259, lod2lnew1_las2, lod_las2, 450, 128
+5260, LODoads_26b_las01, lod_las2, 450, 128
+5261, LODedshprk_las2, lod_las2, 450, 128
+5262, stormd_fill1_LAS2, stormd_filllas2, 200, 2097284
+5263, dockfenceq_las2, wiresetc_las2, 150, 2097156
+5264, dockfencew_las2, wiresetc_las2, 150, 4
+5265, dockfencee_las2, wiresetc_las2, 200, 4
+5266, dockfencer_las2, wiresetc_las2, 150, 4
+5267, stormful2_LAS2, stormd_filllas2, 200, 2097284
+5268, stormful2s_LAS2, stormd_filllas2, 200, 2097284
+5269, BTOROADsp3_las2, lasroads_las2, 150, 4
+5270, BTOROAsp2_las2, lasroads_las2, 150, 4
+5271, LODROAsp2_las2, lod_las2, 450, 128
+5272, LODROADsp3_las2, lod_las2, 450, 128
+5273, sanpedbigslt_las2, docks2_las2, 200, 4
+5274, LODpedbigslt_las2, lod_las2, 450, 128
+5275, LODargohull2d, lod_las2, 450, 2097280
+5276, LODargohull2bd, lod_las2, 450, 2097280
+5277, induswire1_las2, wiresetc_las2, 150, 2097156
+5278, Beach1fnce_las2, beach_las2, 190, 2097156
+5279, Bealpha1_las2, beach_las2, 150, 2097156
+5280, modlas2, lasground2_las2, 150, 2048
+5281, crlsafhus_LAS2, kbgarage_las2, 100, 0
+5282, BTOLAND5m_las2, ground3_las2, 150, 0
+5283, BTOLAND5n_las2, ground3_las2, 150, 0
+5284, LODLAND5m_las2, lod_las2, 450, 128
+5285, LODLAND5n_las2, lod_las2, 450, 128
+5286, LODrmpy1_las2, lod_las2, 450, 128
+5287, TRNTRK3p_las2, traintrack_las2, 180, 0
+5288, LODTRK3p_las2, lod_las2, 450, 128
+5289, BTOLAND6q_las2, lasroads_las2, 150, 0
+5290, LODLAND6q_las2, lod_las2, 450, 128
+5291, snpedteew8_las07, wiresetc_las2, 50, 2097284
+5292, LODcargoshp03f, lod_las2, 450, 128
+5293, NWCSTRD4_las2, freeway2_las2, 190, 4
+5294, lod_NWCSTRD4, lod_las2, 450, 128
+5295, Stordrablas2, stormdrain_las2, 200, 0
+5296, lod_Stordrablas2, lod_las2, 450, 128
+5297, LODedscrsap_las02, lod_las2, 450, 128
+5298, las2jmscumTR12, lasground_las2, 150, 4
+5299, LODstormbrid_las2, lod_las2, 450, 2097280
+5300, LODnrmpy2_las2, lod_las2, 450, 128
+5301, LODcony_kbolt01, lod_las2, 450, 128
+5302, LODcony_kbolt02, lod_las2, 450, 128
+5303, NWCSTRtr_las2, freeway2_las2, 150, 4
+5304, NEWCOMtr_las2, chemgrnd_las2, 150, 4
+5305, LODChemPl2_LAs2, lod_las2, 450, 128
+end
+tobj
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+coast_las2,gb_laroads
+docks2_las2,gb_laroads
+freeway2_las2,gb_laroads
+docks_las2,gb_laroads
+ground2_las2,gb_laroads
+lasground2_las2,gb_laroads
+lasground_las2,gb_laroads
+lasroads_las2,gb_laroads
+wasteland_las2,gb_laroads
+lashops6_las2,gb_lageneric
+lashops91_las2,gb_lageneric
+lashops93_las2,gb_lageneric
+lasraodnshops,gb_lageneric
+lashops1b_las2,gb_lageneric
+wiresetc_las2,gb_lageneric
+stormdrain_las2,gb_lageneric
+stormdrain2_las2,gb_lageneric
+lashops1_las2,gb_lageneric
+industry3_las2,gb_lageneric
+beach_las2,gb_la
+chemgrnd_las2,gb_la
+dkcargoshp_las2,gb_la
+ground3_las2,gb_la
+ground_las2,gb_la
+groundb_las2,gb_la
+imrancompyard_las,gb_la
+imstuff_las2,gb_la
+kbgarage_las2,gb_la
+las2_dockoff,gb_la
+lod_las2,gb_la
+stormd_filllas2,gb_la
+traintrack_las2,gb_la
+warehus_las2,gb_la
+imrancomp_las2,gb_la
+end

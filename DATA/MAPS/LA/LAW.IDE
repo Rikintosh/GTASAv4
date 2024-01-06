@@ -1,0 +1,260 @@
+objs
+5915, lawroads_law12, roads_law, 150, 0
+5916, filler01_laW, lawest1, 100, 4
+5917, filler02_laW, lawest1, 100, 0
+5918, wilshire2_law, lawwhitebuilds, 100, 4
+5919, wilshire5_law, lawwhitebuilds, 100, 0
+5920, wilshire7_law, law_cnrtplaz, 80, 0
+5921, wilshire6_law, lawwhitebuilds, 100, 0
+5922, venblue01_law, santavenice3, 100, 0
+5923, wilshire1w_law, lawest1, 101, 2097156
+5924, wilshire2w_law, lawest1, 101, 2097156
+5925, wilshire5w_law, lawest1, 100, 2097156
+5926, hedge01_law, roads_law, 100, 0
+5927, wilshire1_law, lawwhitebuilds, 100, 4
+5928, mall_laW, mall_law, 200, 0
+5929, beachwall_law, law_beach2, 101, 0
+5930, beachhut01_law, law_beach2, 150, 2097152
+5931, mallglass_laW, mall_law, 120, 2097156
+5932, artcurve_law, law_doontoon, 60, 0
+5933, stepshop_law, law_doontoon, 100, 0
+5934, lawroads_law02, roads_law, 180, 0
+5935, lawroads_law03, roads_law, 150, 0
+5936, jettysign_law, venice_law, 101, 0
+5937, wdpanelhs09_law, venicegb02_law, 90, 0
+5938, wdpanelhs08_law, venicegb02_law, 90, 0
+5939, offven02_law, venicegb02_law, 110, 0
+5940, plaza2top_law, shops2_law, 140, 0
+5941, plaza2bot_law, shops2_law, 100, 0
+5942, Miami_atm, shops2_law, 100.01, 128
+5943, staplaz_law, shops2_law, 110, 0
+5944, LAbeach_03bx, law_beach1, 140, 4
+5945, LAbeach_04bx, law_beach2, 200, 4
+5946, vengym_law, law_beach1, 70, 132
+5947, LODstepshop_law01, lod_a_law, 450, 128
+5948, LODartcurve_law01, lod_a_law, 450, 128
+5949, LODplaza2top_law01, lod_a_law, 450, 128
+5950, LODplaza2bot_law01, lod_a_law, 450, 128
+5951, LODstaplaz_law01, lod_a_law, 450, 128
+5952, LODwilshire1_law, lod_a_law, 450, 128
+5953, LODfiller01_laW01, lod_a_law, 450, 128
+5954, LODwilshire1_law01, lod_a_law, 450, 128
+5955, LODfiller02_laW01, lod_a_law, 450, 128
+5956, LODfiller03_laW01, lod_a_law, 450, 128
+5957, LODwilshire5_law, lod_a_law, 450, 128
+5958, LODwilshire7_law01, lod_a_law, 450, 128
+5959, LODwilshire6_law, lod_a_law, 450, 128
+5960, LODroads_law03, lod_a_law, 450, 128
+5961, LODLAroads_04b01, lod_a_law, 450, 128
+5962, LODLAbeach_04bx01, lod_a_law, 450, 128
+5963, LODLAbeach_03bx01, lod_a_law, 450, 128
+5964, LODvenblue01_law, lod_a_law, 450, 128
+5965, LODoffvensp03_law, lod_a_law, 450, 128
+5966, LODoffvencp_law01, lod_a_law, 450, 128
+5967, offven01_law, venicegb02_law, 100, 0
+5968, offven05_law, venicegb02_law, 100, 0
+5969, LODoffven01_law, lod_a_law, 450, 128
+5970, LODoffven05_law, lod_a_law, 450, 128
+5971, LODwdpanelhs08_law, lod_a_law, 450, 128
+5972, LODwdpanelhs09_law, lod_a_law, 450, 128
+5973, LODoffven02_law, lod_a_law, 450, 128
+5974, bevgrnd03b_law, canalsg_law, 200, 0
+5975, offvensp02_law, shops01_law, 100, 0
+5976, offvensp03_law, shops01_law, 110, 2097152
+5977, LODoffvensp02_law, lod_a_law, 450, 128
+5978, gzbuild2_law, tempo22_law, 80, 0
+5979, gaz3_law, law_doontoon, 100, 0
+5980, gaz1_law, law_doontoon, 110, 0
+5981, gaz2_law, law_doontoon, 120, 0
+5982, gaz4_LAW, gazlaw1, 130, 0
+5983, gaz5_LAW, gazlaw1, 130, 0
+5984, gaz18_LAW, gazlaw2, 100, 0
+5985, LODgaz5_LAW, lod_a_law, 450, 128
+5986, LODgaz4_LAW, lod_a_law, 450, 128
+5987, LODgaz1_law, lod_a_law, 450, 128
+5988, LODgaz2_law, lod_a_law, 450, 128
+5989, LODgaz3_law, lod_a_law, 450, 128
+5990, plazadrawlast_LAW, tempo22_law, 100, 2097156
+5991, lawroads_law05, roads_law, 150, 0
+5992, lawroads_law06, roads_law, 150, 0
+5993, lawroads_law07, roads_law, 150, 0
+5994, lawroads_law08, roads_law, 150, 0
+5995, lawroads_law09, roads_law, 150, 0
+5996, lawroads_law10, roads_law, 150, 0
+5997, lawroads_law11, roads_law, 150, 0
+5998, lawroads_law01, roads_law, 150, 0
+5999, lawroads_law13, roads_law, 150, 0
+6000, lawroads_law14, roads_law, 150, 0
+6001, lawroads_law15, roads_law, 150, 0
+6002, lawroads_law16, roads_law, 250, 0
+6003, lawroads_law17, roads_law, 150, 0
+6004, lawroads_law18, roads_law, 150, 0
+6005, lawroads_law19, roads_law, 150, 0
+6006, lawroads_law20, roads_law, 150, 0
+6007, lawroads_law21, roads_law, 150, 0
+6008, lawroads_law22, roads_law, 150, 0
+6009, lawroads_law23, roads_law, 150, 0
+6010, mallb_laW, mall_law, 200, 0
+6011, LODmall_law, lod_a_law, 450, 128
+6012, gaz8_law, venice_law, 120, 0
+6013, gaz9_law, venice_law, 130, 0
+6014, gaz11_law, venice_law, 90, 0
+6015, gaz13_law, venice_law, 150, 0
+6016, gaz15_law, venice_law, 100, 0
+6017, gaz12_law, venice_law, 70, 0
+6018, gaz10_law, venice_law, 90, 0
+6019, LODgaz8_law, lod_a_law, 450, 128
+6020, LODgaz10_law, lod_a_law, 450, 128
+6021, LODgaz15_law, lod_a_law, 450, 128
+6022, LODgaz13_law, lod_a_law, 450, 128
+6023, LODgaz12_law, lod_a_law, 450, 128
+6024, LODbevgrnd03b_law, lod_a_law, 450, 128
+6025, gaz16_law, venice_law, 90, 0
+6026, LODgaz16_law, lod_a_law, 450, 128
+6027, LODgaz11_law, lod_a_law, 450, 128
+6028, gaz19_law, gazlaw2, 100, 0
+6029, LODgaz7_LAW, lod_a_law, 450, 128
+6030, gaz7_LAW, gazlaw1, 100, 0
+6031, gaz21_LAW, gazlaw2, 100, 0
+6032, gaz20_law, gazlaw2, 100, 0
+6033, LODgaz21_LAW, lod_a_law, 450, 128
+6034, LODgaz18_LAW, lod_a_law, 450, 128
+6035, LODgaz19_law, lod_a_law, 450, 128
+6036, LODgaz20_law, lod_a_law, 450, 128
+6037, gaz22_law, gazlaw3, 100, 0
+6038, gaz24_law, gazlaw3, 100, 0
+6039, gaz25_law, gazlaw3, 100, 0
+6040, gaz23_law, gazlaw3, 130, 0
+6041, LODgaz25_law, lod_a_law, 450, 128
+6042, LODgaz22_law, lod_a_law, 450, 128
+6043, LODgaz24_law, lod_a_law, 450, 128
+6044, LODgaz23_law, lod_a_law, 450, 128
+6045, burggrnd1_law, canalsg_law, 120, 0
+6046, LODroads_law18, lod_a_law, 450, 128
+6047, LODroads_law05, lod_a_law, 450, 128
+6048, LODroads_law06, lod_a_law, 450, 128
+6049, LODroads_law07, lod_a_law, 450, 128
+6050, LODroads_law19, lod_a_law, 450, 128
+6051, LODroads_law12, lod_a_law, 450, 128
+6052, LODroads_law21, lod_a_law, 450, 128
+6053, LODroads_law22, lod_a_law, 450, 128
+6054, LODroads_law20, lod_a_law, 450, 128
+6055, LODroads_law23, lod_a_law, 450, 128
+6056, LODroads_law08, lod_a_law, 450, 128
+6057, LODroads_law02, lod_a_law, 450, 128
+6058, LODroads_law09, lod_a_law, 450, 128
+6059, LODroads_law01, lod_a_law, 450, 128
+6060, LODroads_law11, lod_a_law, 450, 128
+6061, LODroads_law10, lod_a_law, 450, 128
+6062, LODroads_law16, lod_a_law, 450, 128
+6063, LODroads_law13, lod_a_law, 450, 128
+6064, LODroads_law14, lod_a_law, 450, 128
+6065, LODroads_law15, lod_a_law, 450, 128
+6066, gaz5_LAW01, law_beach2, 100, 0
+6067, gaz26_law, law_beach2, 100, 0
+6068, gaz_pier2, pier_law, 180, 0
+6069, gaz_pier1, pier_law, 180, 2097152
+6070, LODgaz_pier2, lod_a_law, 450, 128
+6071, LODgaz_pier1, lod_a_law, 450, 128
+6077, LODgaz26_law, lod_a_law, 450, 128
+6078, LODgaz5_LAW01, lod_a_law, 450, 128
+6079, gaz27_LAW, law_beach2, 100, 0
+6080, LODgaz27_LAW, lod_a_law, 450, 128
+6081, LODger01_LAw, lod_a_law, 450, 128
+6082, LODggrnd1_law, lod_a_law, 450, 128
+6083, LAland_08, lawwhitebuilds, 150, 0
+6084, lawplaza_alpha, lawest1, 60, 132
+6085, ja_gerrartlaw, lawartg, 100, 128
+6086, LODjalaw_plaza, lod_a_law, 450, 128
+6087, LODLAland08, lod_a_law, 450, 128
+6088, LODja_gerrartlaw, lod_a_law, 450, 128
+6089, beachbnt, pier_law, 180, 2097284
+6090, beachbunt2, pier_law, 180, 2097284
+6091, offven01_law01, venicegb02_law, 100, 0
+6092, offven05_law01, venicegb02_law, 100, 0
+6093, venlaw_grnd, lawwhitebuilds, 200, 0
+6094, LAW_alphaveg, lawalphav, 150, 2097284
+6095, LODoffven01b_law, lod_a_law, 450, 128
+6096, LODoffven05b_law, lod_a_law, 450, 128
+6097, law_vengrnd, venicegb02_law, 200, 0
+6098, LODRalTun1LAw, tunnelod_law, 450, 128
+6099, LODRalTun2LAw, tunnelod_law, 450, 128
+6100, LODRalTun3LAw, tunnelod_law, 450, 128
+6101, LODRalTun4LAw, tunnelod_law, 450, 128
+6102, LODRalTun5LAw, tunnelod_law, 450, 128
+6103, gaz2bld_law, law_doontoon, 120, 0
+6104, LODgaz2bld_law, lod_a_law, 450, 128
+6105, lawroads_law04, roads_law, 150, 0
+6106, LODoads_law04, lod_a_law, 450, 128
+6107, canalWest01_LAw, canalsg_law, 200, 0
+6108, CanalBrij02_LAw, canalsg_law, 150, 0
+6109, canalEast01_LAw, canalsg_law, 200, 0
+6110, canaljetty_LAw, canalsg_law, 100, 0
+6111, CanalRoad01_LAw, roads_law, 150, 0
+6112, canal_arch, canalsg_law, 120, 0
+6113, canal_floor, canalsg_law, 200, 0
+6114, canal_floor2, canalsg_law, 200, 0
+6115, canal_arch01, canalsg_law, 120, 0
+6116, canal_floor3, canalsg_law, 200, 0
+6117, venice_alpha, lawalphav, 180, 2097284
+6118, LODCanalRoad01_LAw, lod_a_law, 450, 128
+6119, LODcanal_arch2, lod_a_law, 450, 128
+6120, LODcanal_floor3, canalsg_law, 200, 128
+6121, LODcanal_floor2, lod_a_law, 450, 128
+6122, LODcanal_floor1, lod_a_law, 450, 128
+6123, LODCanBrij02_LAw, lod_a_law, 450, 128
+6124, LODcanalW_LAw, lod_a_law, 450, 128
+6125, LODcanal_arch, lod_a_law, 450, 128
+6126, LODcanalE1_LAw, lod_a_law, 450, 128
+6127, LODcanljety_LAw, lod_a_law, 450, 128
+6128, RailTunn01_LAw, tunnel_law, 100, 0
+6129, RailTunn02_LAw, tunnel_law, 100, 0
+6130, RailTunn03_LAw, tunnel_law, 100, 0
+6131, RailTunn04_LAw, tunnel_law, 100, 0
+6132, RailTunn05_LAw, tunnel_law, 100, 0
+6133, LODhedge_law, lod_a_law, 450, 128
+6135, lodmallb_law, lod_a_law, 450, 128
+6136, LODgaz9_law, lod_a_law, 450, 128
+end
+tobj
+6072, nitelites_LAW02, nitelites_law, 450, 12, 20, 6
+6073, nitelites_LAW01, nitelites_law, 450, 12, 20, 6
+6074, nitelites_LAW05, nitelites_law, 450, 12, 20, 6
+6075, nitelites_LAW03, nitelites_law, 450, 12, 20, 6
+6076, nitelites_LAW04, nitelites_law, 450, 140, 20, 6
+end
+path
+end
+2dfx
+end
+anim
+6137 ,burger01_LAw ,burgsh01_law ,LAw ,100 ,0
+end
+txdp
+roads_law,gb_laroads
+burgsh01_law,gb_lageneric
+gazlaw1,gb_lageneric
+gazlaw2,gb_lageneric
+gazlaw3,gb_lageneric
+law_beach2,gb_lageneric
+law_doontoon,gb_lageneric
+lawalphav,gb_lageneric
+mall_law,gb_lageneric
+santavenice3,gb_lageneric
+venice_law,gb_lageneric
+canalsg_law,gb_la
+law_beach1,gb_la
+law_cnrtplaz,gb_la
+lawartg,gb_la
+lawest1,gb_la
+lawwhitebuilds,gb_la
+lod_a_law,gb_la
+nitelites_law,gb_la
+pier_law,gb_la
+shops01_law,gb_la
+shops2_law,gb_la
+tempo22_law,gb_la
+tunnel_law,gb_la
+tunnelod_law,gb_la
+venicegb02_law,gb_la
+end

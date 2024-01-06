@@ -1,0 +1,341 @@
+objs
+5310, laeskateparkLA, glenpark7_lae, 150, 0
+5311, laeroad01, laeroads2s, 150, 1
+5312, laestripmall1, eastshops1_lae, 100, 128
+5313, laeshop1, eastshops1_lae, 100, 128
+5314, xstpdnam_LAE, railtracklae, 100, 128
+5315, laecomptonbrij3, laeroads, 100, 2097280
+5316, laeRailBrijBlok, laeroads, 100, 128
+5317, laeclubBlock1, barrio1_lae, 100, 128
+5318, laetraintunn02, railtracklae, 80, 0
+5319, laetraintunn01, railtracklae, 100, 128
+5320, laeskatetube1, glenpark7_lae, 140, 128
+5321, laegarages1nw, jeffers4_lae, 80, 128
+5322, laehospground1, hospital_lae, 150, 128
+5323, laehospital1, hospital_lae, 150, 128
+5324, laestormdrain01, stormdra1_lae, 150, 0
+5325, laeBlakWesTran2, laealpha, 130, 2097284
+5326, laecrackmotel4, jeffers5a_lae, 100, 128
+5327, laelasruff201, glenpark1x_lae, 150, 128
+5328, laeexaminerbuild1, tempstuff_lae, 150, 128
+5329, laepetrol1a, barrio1_lae, 100, 128
+5330, laecumpstreet, glenpark1x_lae, 110, 128
+5331, laeroadsblk, idlewood6_detail, 150, 0
+5332, laelasjmscubit, glenpark1x_lae, 150, 128
+5333, laecrackmotel1, motel_lae, 120, 0
+5334, laeJeffers02, jeffers5a_lae, 100, 128
+5335, laeskateparkTrans, glenpark7_lae, 150, 128
+5336, laeganghous205, gang2hous1_lae, 80, 128
+5337, laenwblk2, idlewood6_tr, 150, 132
+5338, lae711block01, idlewood3_lae, 120, 0
+5339, laestormdrain02, stormdra1_lae, 150, 0
+5340, laestormdrain03, stormdra1_lae, 150, 0
+5341, laesmokeshse, laesmokecnthus, 100, 128
+5342, laespraydoor1, idlewood6_lae, 80, 2176
+5343, laeJeffers03, jeffers4_lae, 150, 0
+5344, laeJeffers04, jeffers4_lae, 150, 0
+5345, laeJeffers05, jeffers4_lae, 150, 128
+5346, laeJeffers06, jeffers4_lae, 150, 128
+5347, laeJeffers09, jeffers4_lae, 150, 128
+5348, laeJeffers10, jeffers4_lae, 150, 128
+5349, xwhattfk_LAE, jeffers4_lae, 100, 128
+5350, laeIdlewood11, idlewood3_lae, 150, 128
+5351, laeroad02, laeroads2s, 150, 1
+5352, laeroad03, laeroads2s, 150, 1
+5353, laeroad04, laeroads2s, 150, 1
+5354, laeroad05, laeroads2s, 150, 1
+5355, laeroad06, laeroads2s, 150, 1
+5356, fukxroad07, laeroads2s, 150, 1
+5357, laeroad08, laeroads2s, 150, 1
+5358, laeroad09, laeroads2s, 150, 1
+5359, laeroad10, laeroads, 150, 1
+5360, laeroad11, laeroads2s, 150, 1
+5361, laeroad12, laeroads2s, 150, 1
+5362, laeroad13, laeroads2s, 130, 1
+5363, laeGlenPark02, glenpark1_lae, 140, 128
+5364, laeChicano02, chicano10_lae, 130, 128
+5365, laeChicano01, chicano10_lae, 130, 128
+5366, laeChicano03, chicano10_lae, 150, 128
+5367, laeChicano04, chicano10_lae, 100, 128
+5368, laeChicano05, chicano10_lae, 100, 128
+5369, laeChicanoTr1, chicanotr1_lae, 150, 2097284
+5370, laeChicano06, chicano10_lae, 100, 128
+5371, laeChicano07, chicano10_lae, 90, 128
+5372, laeChicano09, chicano10_lae, 150, 128
+5373, laeChicano10, chicano10_lae, 130, 128
+5374, laeLODds03, lod2lae1, 800, 0
+5375, laeLODds04, lod2lae1, 800, 0
+5376, laeroad14, laeroads2s, 150, 1
+5377, laeGlenPark01, glenpark1_lae, 150, 128
+5378, laeMacPark01, macpark1tr_lae, 140, 0
+5379, laeJeffers01, glenpark1_lae, 150, 0
+5380, laeLODPark01, lod2lae1, 800, 0
+5381, laeGlenPark05, glenpark6d_lae, 150, 0
+5382, laeGlenPark04, glenpark6_lae, 150, 128
+5383, laebuildsit01, glenpark6_lae, 130, 128
+5384, laeGlenPark04Tr, laealpha, 150, 2097284
+5386, laeLODldsit01, lod2lae1, 450, 0
+5387, laehospitalTr, hospital_lae, 150, 132
+5388, laeLODfers02, lod2lae1, 400, 0
+5389, laeRoads11Tr, roadstr_lae, 150, 2097284
+5390, laeRoads10Tr, roadstr_lae, 150, 2097284
+5391, laeIdlewood01, glenpark1x_lae, 150, 0
+5392, frecrsbrid_LAE, laeroads2s, 150, 1
+5393, laeidlebrijTr, jeffers4_lae, 150, 2097284
+5394, laeIdlewood02, idlewood46_lae, 150, 0
+5395, laeIdleProj02, idlewood46_lae, 150, 128
+5396, laeIdleProj01, idlewood46_lae, 130, 128
+5397, laerailtrack1, railtracklae, 150, 0
+5398, laerailtrack2, railtracklae, 150, 0
+5399, laerailtrack3, railtracklae, 150, 0
+5400, laerailtrack4, railtracklae, 150, 0
+5401, laebridge, laeroads2s, 150, 128
+5402, laeroad16, laeroads2s, 150, 1
+5403, laeroad17, laeroads2s, 150, 1
+5404, laeroad18, laeroads2s, 150, 1
+5405, laeroad20, laeroads2s, 150, 1
+5406, laeroad21, laeroads2s, 150, 1
+5407, laeroad22, laeroads2s, 140, 1
+5408, laeroad23, laeroads2s, 150, 1
+5409, laeroad24, barrio1_lae, 100, 1
+5410, laeroad25, laeroads2s, 150, 1
+5411, laeroad26, laeroads2s, 150, 1
+5412, laeroad27, laeroads2s, 150, 1
+5413, laeroad28, laeroads2s, 130, 1
+5414, laeroad29, laeroads2s, 150, 1
+5415, laeroad30, laeroads2s, 150, 1
+5416, laeroad31, laeroads2s, 150, 1
+5417, laeroad32, laeroads2s, 150, 1
+5418, laeroad33, laeroads2s, 150, 1
+5419, laeroad34, laeroads2s, 150, 1
+5420, laeroad35, laeroads2s, 150, 1
+5421, laeroad36, laeroads2s, 150, 1
+5422, laeroad37, laeroads2s, 150, 1
+5423, laeroad38, laeroads2s, 150, 1
+5424, laeroad39, laeroads2s, 170, 1
+5425, laeroad40, laeroads2s, 150, 1
+5426, laeroad41, laeroads2s, 150, 1
+5427, laeroad42, laeroads2s, 130, 1
+5428, laeroad43, laeroads2s, 150, 1
+5429, laeroad44, laeroads2s, 150, 1
+5430, laeroad45, laeroads2s, 150, 1
+5431, laeroad46, laeroads, 150, 1
+5432, laeroad47, laeroads, 150, 1
+5433, laerail6, railtracklae, 150, 0
+5434, LODlaeIdlewood01, lod2lae1, 400, 0
+5435, LODlaeIdlewood02, lod2lae1, 400, 0
+5436, LODIdleProj02, lod2lae1, 400, 0
+5437, LODIdleProj01, lod2lae1, 450, 0
+5438, Idlewood05_LAe, glenpark1x_lae, 150, 128
+5439, Idlewood04_LAe, glenpark1x_lae, 120, 0
+5440, BDupsHouse_LAe, bdupshouse_lae, 80, 128
+5441, Idlewofuk06_LAe, idlewood6_lae, 140, 128
+5442, Idlewood06Tr_LAe, idlewood6_detail, 150, 132
+5443, LODroadsblk01, lod2lae1, 450, 0
+5444, LODnwblkB02, lod2lae1, 450, 0
+5445, LODnwblk03, lod2lae1, 400, 0
+5446, LODewood06_LAe01, lod2lae1, 450, 0
+5447, LODsprayshop01, lod2lae1, 400, 0
+5448, laeroadct43, laeroads2s, 150, 1
+5449, LODroadf48, lod2lae1, 400, 0
+5450, LOD711block02, lod2lae1, 400, 0
+5451, LODIdlewood12, lod2lae1, 400, 0
+5452, laesprayshop, paynspray_lae, 100, 128
+5453, LODroadB48, lod2lae1, 400, 0
+5454, LODroadC48, lod2lae1, 400, 0
+5455, LODpetrol1a01, lod2lae1, 400, 0
+5456, LODclubBlock02, lod2lae1, 450, 0
+5457, lodroadml148, lod2lae1, 400, 0
+5458, LODroadbnj, lod2lae1, 400, 0
+5459, LODroadsjm2, lod2lae1, 400, 0
+5460, LODroadct44, lod2lae1, 400, 0
+5461, lodlaeroad37, lod2lae1, 500, 0
+5462, LODlaeroad36, lod2lae1, 400, 0
+5463, LODzroad12, lod2lae1, 400, 0
+5464, LODexaminerbuild02, lod2lae1, 450, 0
+5465, LODlasjmscubit, lod2lae1, 450, 0
+5466, LODroadt42, lod2lae1, 400, 0
+5467, LODlasruff201, lod2lae1, 400, 0
+5468, LODroad39t, lod2lae1, 400, 0
+5469, LODewood05_LAe, lod2lae1, 400, 0
+5470, LODroadfg44, lod2lae1, 400, 0
+5471, LODcumpstreet, lod2lae1, 400, 0
+5472, LODrofad45, lod2lae1, 400, 0
+5473, LODroghad01, lod2lae1, 400, 0
+5474, LODewood04_LAe01, lod2lae1, 400, 0
+5475, LODstormdrain02, lod2lae1, 400, 0
+5476, LODstormdrain01, lod2lae1, 400, 0
+5477, LODxroad46, lod2lae1, 400, 0
+5478, LODxrail6, lod2lae1, 400, 0
+5479, LODroad47, lod2lae1, 400, 0
+5480, LODxroad10, lod2lae1, 400, 0
+5481, LODxrailtrack4, lod2lae1, 400, 0
+5482, LODxrailtrack3, lod2lae1, 400, 0
+5483, LODxroad11, lod2lae1, 400, 0
+5484, LODxcrsbrid_LAE, lod2lae1, 400, 0
+5485, laectru_LAE, laealpha, 130, 2097284
+5486, LODxrailtrack2, lod2lae1, 400, 0
+5487, LODxrailbrij1, lod2lae1, 400, 0
+5488, LODxcomptonbrij3, lod2lae1, 400, 0
+5489, LODxroad09, lod2lae1, 400, 0
+5490, LODxJeffers11, lod2lae1, 400, 0
+5491, LODxoad33, lod2lae1, 400, 0
+5492, LODxroad35, lod2lae1, 400, 0
+5493, LODxroad32, lod2lae1, 400, 0
+5494, LODxroad31, lod2lae1, 400, 0
+5495, LODxskateparkLA, lod2lae1, 400, 0
+5496, LODxroad07, lod2lae1, 400, 0
+5497, LODxroad30, lod2lae1, 400, 0
+5498, LODxhospground1, lod2lae1, 400, 0
+5499, LODxhospital1, lod2lae1, 450, 0
+5500, LODxroad08, lod2lae1, 400, 0
+5501, LODxJeffers09, lod2lae1, 400, 0
+5502, LODxgarages1nw, lod2lae1, 400, 0
+5503, LODxroad29, lod2lae1, 400, 0
+5504, LODxJeffers06, lod2lae1, 450, 0
+5505, LODxJeffers05, lod2lae1, 400, 0
+5506, LODxroad27, lod2lae1, 400, 0
+5507, LODxroad25, lod2lae1, 800, 0
+5508, LODxrailtrack1, lod2lae1, 800, 0
+5509, LODfukxroad06, lod2lae1, 400, 0
+5510, LODxroad28, lod2lae1, 400, 0
+5511, LODxroad26, lod2lae1, 800, 0
+5512, LODxJeffers03, lod2lae1, 400, 0
+5513, LODxJeffers04, lod2lae1, 400, 0
+5514, LODxroad17, lod2lae1, 800, 0
+5515, LODxroad16, lod2lae1, 800, 0
+5516, LODxroad34, lod2lae1, 400, 0
+5517, LODxGlenPark06, lod2lae1, 450, 0
+5518, LODxGlenPark04, lod2lae1, 450, 0
+5519, LODxsroad05, lod2lae1, 400, 0
+5520, LODsxroad23, lod2lae1, 800, 0
+5521, LODsxroad20, lod2lae1, 800, 0
+5522, LODsxroad22, lod2lae1, 800, 0
+5523, LODsxroad02, lod2lae1, 800, 0
+5524, LODsxroad21, lod2lae1, 800, 0
+5525, LODxsGlenPark01, lod2lae1, 800, 0
+5526, LODxsGlenPark02, lod2lae1, 800, 0
+5527, LODxsstripmall1, lod2lae1, 400, 0
+5528, LODxsshop1, lod2lae1, 400, 0
+5529, LODxsroad03, lod2lae1, 800, 0
+5530, LODxsJeffers01, lod2lae1, 800, 0
+5531, LODxscrackmotel4, lod2lae1, 800, 0
+5532, LODxscrackmotel1, lod2lae1, 800, 0
+5533, LODxsChicano11, lod2lae1, 800, 0
+5534, LODxsChicano08, lod2lae1, 800, 0
+5535, LODxsChicano10, lod2lae1, 800, 0
+5536, LODxsChicano09, lod2lae1, 800, 0
+5537, LODxsChicano01, lod2lae1, 800, 0
+5538, LODxsChicano02, lod2lae1, 800, 0
+5539, LODxsChicano03, lod2lae1, 800, 0
+5540, LODxsChicano07, lod2lae1, 800, 0
+5541, LODxsChicano06, lod2lae1, 800, 0
+5542, LODxsChicano05, lod2lae1, 800, 0
+5543, LODxsChicano04, lod2lae1, 800, 0
+5544, laeHillsctst03, chicano10_lae, 100, 0
+5545, LODxsHillsctst03, lod2lae1, 800, 0
+5546, laecompmedhos518, jeffers4_lae, 100, 0
+5547, lasbrid1SJM_LAe, railtracklae, 100, 128
+5548, laenwblkB1, idlewood6_lae, 100, 128
+5549, LAEalpha6, laealpha, 200, 2097284
+5550, blockalphalae, blockalpha, 100, 2097284
+5551, apartmntalpha, apartmentalpha, 150, 2097284
+5552, motelalpha, motelalpha, 180, 2097284
+5553, LAEalpha1, laealpha, 170, 2097284
+5554, LAEalpha2, laealpha, 200, 2097284
+5555, LAEalpha3, laealpha, 130, 2097284
+5556, LAEalpha4, laealpha, 200, 2097284
+5557, LAEalpha5, laealpha, 180, 2097284
+5558, LAEalpha7, laealpha, 200, 2097284
+5559, LAEdirtapha, laealpha, 200, 0
+5560, laemacpark02, macpark1tr_lae, 150, 0
+5561, LAEalpha5b, laealpha, 180, 2097284
+5562, laeChicano11, chicano10_lae, 120, 128
+5563, laeChicano08, chicano10_lae, 130, 128
+5564, laebuildsit01a, glenpark6_lae, 130, 2097284
+5565, LODlaestormdrain03, lod2lae1, 400, 0
+5566, LODlaetraintunn01, lod2lae1, 800, 0
+5567, LODlaetraintunn02, lod2lae1, 800, 0
+5568, LODlaeroad48, lod2lae1, 400, 0
+5569, LODlaeJeffers10, lod2lae1, 450, 0
+5570, laeroad03b, laeroads2s, 150, 1
+5571, LODxsroad03b, lod2lae1, 800, 0
+5572, stormdraindrt1_LAe, stormdra1_lae, 130, 132
+5573, LODlaeRailBrijBlok, lod2lae1, 400, 0
+5574, laeJeffers10alphas, laealpha, 150, 2097284
+5575, laeJeffers06alphas, laealpha, 140, 2097284
+5576, laeChicano01b, chicano10_lae, 130, 128
+5577, laeChicano01c, chicano10_lae, 130, 128
+5578, LODlaeChicano01b, lod2lae1, 800, 0
+5579, LODlaeChicano01c, lod2lae1, 800, 0
+5580, LODbrid1SJM_LAe, lod2lae1, 250, 0
+5581, laeskateP_alphas, glenpark7_lae, 80, 4
+5584, graffiti01_lae, glenpark7_lae, 100, 4
+5585, laeLODpmedhos519, lod2lae1, 400, 0
+5587, laeLODPark02, lod2lae1, 800, 0
+5588, LODlaeroad04, lod2lae1, 800, 0
+5589, laebridgeb, laeroads2s, 140, 128
+5590, LODlaebridgeb, lod2lae1, 800, 0
+5591, LODsmokeshse, lod2lae1, 400, 0
+5592, LODpsHouse_LAe, lod2lae1, 400, 0
+5593, LODganghous206, lod2lae1, 400, 0
+5594, LODxrailtrack2b, lod2lae1, 400, 0
+5595, laerailtrack2b, railtracklae, 150, 0
+5596, LODlaeroad18, lod2lae1, 800, 0
+5597, Motel2laealphas, idlewood3_lae, 80, 132
+5598, laeJeffersalpha, macpark1tr_lae, 140, 2097284
+5599, Lae_smokecutscene, laesmokecuts, 70, 2097152
+5600, laetraintunn03, railtracklae, 200, 0
+5601, LODlaetraintunn03, lod2lae1, 1000, 128
+5602, carwashalphas_lae, barrio1_lae, 130, 2097284
+end
+tobj
+5385, laeGlenPark05Nt, glenpark6d_lae, 90, 128, 22, 7
+5582, LTSlaehospital1, nightlts_lae, 300, 140, 20, 6
+5583, LTSlaeChicano02, nightlts_lae, 350, 140, 20, 6
+5586, LTSlaeGlenPark04, nightlts_lae, 300, 140, 20, 6
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+laeroads,gb_laroads
+laeroads2s,gb_laroads
+bdupshouse_lae,gb_lageneric
+laealpha,gb_lageneric
+chicano10_lae,gb_lageneric
+glenpark1x_lae,gb_lageneric
+hospital_lae,gb_lageneric
+glenpark6d_lae,gb_lageneric
+glenpark7_lae,gb_lageneric
+idlewood6_detail,gb_lageneric
+glenpark6_lae,gb_lageneric
+idlewood46_lae,gb_lageneric
+idlewood6_lae,gb_lageneric
+jeffers4_lae,gb_lageneric
+stormdra1_lae,gb_lageneric
+paynspray_lae,gb_lageneric
+idlewood3_lae,gb_lageneric
+apartmentalpha,gb_la
+blockalpha,gb_la
+chicanotr1_lae,gb_la
+eastshops1_lae,gb_la
+gang2hous1_lae,gb_la
+glenpark1_lae,gb_la
+idlewood6_tr,gb_la
+jeffers5a_lae,gb_la
+laesmokecnthus,gb_la
+laesmokecuts,gb_la
+lod2lae1,gb_la
+macpark1tr_lae,gb_la
+motelalpha,gb_la
+nightlts_lae,gb_la
+railtracklae,gb_la
+roadstr_lae,gb_la
+tempstuff_lae,gb_la
+barrio1_lae,gb_la
+motel_lae,gb_la
+end

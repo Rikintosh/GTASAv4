@@ -1,0 +1,542 @@
+objs
+6390, stormdrainLAE2_05, stormdrain, 150, 0
+6391, RiverBridge1_LAe, stormdrain, 90, 128
+6392, RiverBridge2_LAe, stormdrain, 60, 128
+6393, Furniture_LAe, furniture_lae2, 125, 0
+6394, furnittrans1_LAe, eastlstr_lae2, 120, 2097284
+6395, lae2_ground02, lae2roads, 150, 128
+6396, stormdrainLAE2_06, stormdrain, 150, 0
+6397, stormdrainLAE2_03, stormdrain, 150, 0
+6398, BlockK_LAe2, barrio1_lae2, 60, 2097152
+6399, lae2_ground03, lae2roads, 150, 128
+6400, barrioTrans01_LAe, blackwestran1_lae2, 100, 2097284
+6401, gwforum1_LAe, stadium_lae2, 150, 0
+6402, LODgwforum1_LAe, laeast2_lod, 450, 128
+6403, lae2_ground04, landlae2e, 150, 0
+6404, starthootra1_LAe, landhub, 50, 132
+6405, scumgym1_LAe, ganton01_lae2, 100, 128
+6406, BlockItrans_LAe, landhub, 80, 132
+6407, BarberBlock1_LAe, templae2land, 70, 128
+6408, telwire_01_LAe2, hub_alpha, 100, 2097284
+6409, market2_lae, lae2newtempbx, 80, 128
+6410, market1_lae, lae2newtempbx, 60, 0
+6411, Pawnshp_lae2, lae2newtempbx, 60, 128
+6412, gangshop7_lae2, furniture_lae2, 60, 128
+6413, Stripbar_lae, lae2newtempbx, 60, 128
+6414, LongBeBlok1_LAe, lae2bigblock, 200, 128
+6415, RiverBridge3_LAe2, stormdrain, 120, 128
+6416, gangshops1_LAe, eastls1_lae2, 80, 128
+6417, gangblock1Tr_LAe, eastlstr_lae2, 120, 2097284
+6418, barrioTrans01_LAe01, eastlstr_lae2, 120, 2097284
+6419, gangshops2_LAe2, eastls1_lae2, 60, 128
+6420, pigpenblok1Tr_LAe, eastlstr_lae2, 120, 2097284
+6421, barrio03A_LAe, eastls1_lae2, 80, 128
+6422, barrio06Trans_LAe, lae2grnd, 100, 128
+6423, tempLB1_LAe2, eastbeach7_lae2, 120, 128
+6424, cluckinbell1_LAe, furniture_lae2, 60, 128
+6425, furnsign1_LAe2, lae2billboards, 220, 132
+6426, dambuild1_LAe2, lae2bigblock, 110, 128
+6427, cineblock1_LAe2, eastls4_lae2, 60, 128
+6428, powerstat1_LAe2, losflor4_lae2, 150, 128
+6429, rdsigns4_LAe03, landlae2c, 70, 128
+6430, rdsigns4_LAe05, gymblok2_lae2, 70, 128
+6431, LBeachBlok1z_LAe2, eastbeach2a_lae2, 150, 0
+6432, gangshops6_LAe2, eastls1b_lae2, 80, 128
+6433, gangshops5_LAe2, eastls1b_lae2, 80, 128
+6434, gangshops4_LAe2, eastls1b_lae2, 80, 128
+6435, barrio02_LAe, burnsground, 80, 0
+6436, hydro3_LAe, losflor2_lae2, 80, 128
+6437, EBeachAp1_LAe2, eastbeach4a_lae2, 100, 0
+6438, lae2_ground05, landlae2, 150, 0
+6439, BeachBlok01_LAe2, eastbeach8_lae2, 90, 128
+6440, EasBeBrij1_LAe2, eastbeach09_lae2, 80, 4
+6441, BeachBlok02_LAe2, eastbeach09_lae2, 100, 128
+6442, burnHous1_LAe2, eastls3_lae2, 60, 128
+6443, BeachBlok3_LAe2, ebeachcineblok, 100, 128
+6444, BeachBlok5_LAe2, ebeachcineblok, 80, 128
+6445, BeachBlok7_LAe2, eastbeach3c_lae2, 130, 128
+6446, MStorCP1_LAe2, ebeachcineblok, 110, 0
+6447, MStorCP2_LAe2, ebeachcineblok, 110, 128
+6448, MStorCP4_LAe2, ebeachcineblok, 110, 128
+6449, MStorCP6_LAe2, ebeachcineblok, 110, 128
+6450, EBeachAp3_LAe2, eastbeach3c_lae2, 100, 0
+6451, MsCpTunn2_LAe2, ebeachcineblok, 150, 128
+6452, LongBeBlokx_LAe, coast_apts, 80, 0
+6453, wattspark1_LAe2, lae2tempshit, 120, 0
+6454, Tempdoor_LAe2, landhub, 50, 128
+6455, rustybrij01_LAe2, ganton01_lae2, 90, 128
+6456, sweetsdoor_LAe2, contachou1_lae2, 100, 2176
+6457, stormdrainLAE2_07, stormdrain, 150, 0
+6458, stormdrainLAE2_04, stormdrain, 150, 0
+6459, LODrDrai2a_LAe2, laeast2_lod, 450, 128
+6460, LODrDrai2b_LAe2, laeast2_lod, 450, 128
+6461, LODrDrai3a_LAe2, laeast2_lod, 450, 128
+6462, LODrDrai3b_LAe2, laeast2_lod, 450, 128
+6463, rydhou01_LAe2, contachou1_lae2, 60, 128
+6464, rydbkyar1_LAe2, landhub, 150, 128
+6465, burgho01_LAe2, coast_apts, 120, 128
+6466, hubbridge1_LAe2, landhub, 60, 2097280
+6467, Liquorstore01_LAe2, ganton02_lae2, 60, 0
+6468, Liquorstore02_LAe2, ganton02_lae2, 60, 132
+6470, LOD_ebeachapts3, laeast2_lod, 450, 128
+6471, LODPwnshp_lae2, laeast2_lod, 450, 128
+6472, stadtplaza_lae2, stadium_lae2, 200, 0
+6473, stadt_fence, stadtplaza_lae2, 250, 2097284
+6474, LODBeachBlok3_LAe, laeast2_lod, 450, 128
+6475, lae2transbit, ebeach_veg, 100, 2097284
+6476, ebeach_alphabits, lae2_alphabits, 110, 2097284
+6477, LODEBechA1_LAe, laeast2_lod, 450, 128
+6478, ebeach_alpahbits2, lae2coast_alpha, 120, 2097284
+6479, ebeachpark, coast_apts, 100, 0
+6480, LODebeachpark, laeast2_lod, 450, 128
+6481, ebeachalpha5, lae2_alphabits, 150, 2097284
+6482, ebeach_veg, ebeach_veg, 80, 132
+6483, LODburnHous1_LAe, laeast2_lod, 450, 128
+6484, lae2_ground06, landlae2, 200, 0
+6485, Lae2_roads01, lae2roadshub, 150, 1
+6486, Lae2_roads02, lae2roads, 150, 1
+6487, Lae2_roads03, lae2roadshub, 250, 1
+6488, Lae2_roads04, lae2roads, 150, 1
+6489, Lae2_roads85, lae2roads, 150, 1
+6490, Lae2_roads05, lae2roads, 150, 1
+6491, lae2_ground07, landlae2, 150, 0
+6492, Lae2_roads07, lae2roads, 150, 1
+6493, Lae2_roads08, lae2roads, 150, 1
+6494, Lae2_roads09, lae2roads, 150, 1
+6495, Lae2_roads10, lae2roads, 150, 1
+6496, lae2_roadscoast04, lae2roadscoast, 200, 1
+6497, Lae2_roads12, lae2roadscoast, 180, 1
+6498, Lae2_roads13, lae2roads, 100, 1
+6499, Lae2_roads14, lae2roads, 150, 1
+6500, Lae2_roads15, lae2roadshub, 150, 1
+6501, Lae2_roads16, lae2roadshub, 150, 1
+6502, Lae2_roads88, lae2roadshub, 150, 1
+6503, Lae2_roads89, lae2roadshub, 150, 1
+6504, Lae2_landHUB02, landhub, 150, 0
+6505, Lae2_landHUB03, landhub, 150, 0
+6506, Lae2_landHUB04, landhub, 150, 0
+6507, Lae2_landHUB05, landhub, 150, 0
+6508, Lae2_landHUB06, landhub, 150, 0
+6509, Lae2_landHUB07, landhub, 150, 0
+6510, Lae2_landHUB01, landhub, 150, 0
+6511, Lae2_roads17, lae2roads, 150, 1
+6512, Lae2_roads18, lae2roads, 150, 1
+6513, Lae2_roads19, lae2roads, 150, 1
+6514, Lae2_roads20, lae2roads, 150, 1
+6515, Lae2_roads21, lae2roads, 150, 1
+6516, Lae2_roads22, lae2roads, 150, 1
+6517, Lae2_roads23, lae2roads, 150, 1
+6518, Lae2_roads24, lae2roads, 150, 1
+6519, Lae2_roads25, lae2roads, 150, 1
+6520, Lae2_roads26, lae2roads, 150, 1
+6521, Lae2_roads27, lae2roads, 150, 1
+6522, Lae2_roads28, lae2roads, 150, 1
+6523, lae2_ground08, burnsground, 120, 0
+6524, lae2_ground09, landlae2b, 150, 0
+6525, lae2_ground10, landlae2b, 80, 0
+6526, lae2_ground11, landlae2b, 150, 0
+6527, Lae2_roads29, lae2roads, 100, 1
+6528, Lae2_roads30, lae2roads, 150, 1
+6529, Lae2_roads31, lae2roads, 150, 1
+6530, Lae2_roads32, lae2roads, 150, 1
+6531, Lae2_roads33, lae2roads, 150, 1
+6532, Lae2_roads90, lae2roads, 150, 1
+6533, Lae2_roads34, lae2roads, 150, 1
+6534, Lae2_roads35, lae2roads, 150, 1
+6535, lae2_ground12, landlae2b, 150, 0
+6536, Lae2_roads36, lae2roads, 150, 1
+6537, Lae2_roads37, lae2roads, 150, 1
+6538, Lae2_roads38, lae2roads, 150, 1
+6539, Lae2_roads39, lae2roads, 150, 1
+6540, Lae2_roads40, lae2roads, 150, 1
+6541, Lae2_roads41, lae2roads, 150, 1
+6542, Lae2_roads42, lae2roads, 150, 1
+6543, Lae2_roads43, lae2roads, 150, 1
+6544, Lae2_roads44, lae2roads, 150, 1
+6545, Lae2_roads46, lae2roads, 150, 1
+6546, Lae2_roads50, lae2roads, 150, 1
+6547, Lae2_roads52, lae2roads, 150, 1
+6548, Lae2_roads53, lae2roads, 150, 1
+6549, Lae2_roads54, lae2roads, 150, 1
+6550, Lae2_roads55, lae2roads, 100, 1
+6551, Lae2_roads56, lae2roads, 100, 1
+6552, Lae2_roads57, lae2roads, 100, 1
+6553, Lae2_roads58, lae2roads, 150, 1
+6554, lae2_ground13, lae2grnd, 150, 0
+6555, lae2_ground14, lae2grnd, 150, 0
+6556, Lae2_roads86, lae2roads, 150, 1
+6557, Lae2_roads59, lae2roads, 150, 1
+6558, Lae2_roads64, lae2roads, 150, 1
+6559, Lae2_roads65, lae2roads, 150, 1
+6560, Lae2_roads66, lae2roads, 180, 1
+6561, Lae2_roads67, lae2roads, 180, 1
+6562, Lae2_roads68, lae2roads, 180, 1
+6563, lae2_roadscoast06, lae2roadscoast, 250, 1
+6564, lae2_roadscoast05, lae2roadscoast, 250, 1
+6565, lae2_roadscoast03, lae2roadscoast, 250, 1
+6566, lae2_roadscoast01, lae2roadscoast, 250, 1
+6567, lae2_ground15, landlae2c, 180, 0
+6568, grnd05_lae2, lae2bridge, 180, 0
+6569, lae2_bigblock, lae2bigblock, 150, 128
+6570, Lae2_roads76, lae2roads, 150, 1
+6571, Lae2_roads77, lae2roads, 100, 1
+6572, Lae2_roads78, lae2roads, 150, 1
+6573, Lae2_roads79, lae2roadscoast, 200, 1
+6574, Lae2_roads80, lae2roadscoast, 180, 1
+6575, lae2_ground16, landcoast_lae2, 180, 0
+6576, stormdrainLAE2_01, stormdrain, 200, 0
+6577, Lae2_roads81, lae2roads, 150, 1
+6578, stormdrainLAE2_02, stormdrain, 150, 0
+6579, brglae2, stormdrain, 100, 2097152
+6580, lae2_blockN, coast_apts, 80, 128
+6581, lae2_ground17, landcoast_lae2, 150, 0
+6582, Lae2_roads83, lae2roads, 150, 1
+6583, Lae2_roads84, lae2roads, 150, 1
+6584, lae2_ground17b, lae2bridge, 150, 0
+6585, brg_lae2, lae2bridge, 100, 128
+6586, lae2_ground18, landcoast_lae2, 150, 0
+6587, carlshou1_LAe2, contachou1_lae2, 60, 128
+6588, sweetshou1_LAe2, contachou1_lae2, 70, 128
+6589, mcstraps_LAe2, contachou1_lae2, 70, 128
+6590, pigpenblok1_LAe2, gangblok1_lae2, 90, 128
+6591, LODLae2_roa, laeast2_lod, 450, 128
+6592, LODLae2_roads31, laeast2_lod, 450, 128
+6593, LODLae2_roads84, laeast2_lod, 450, 128
+6594, LOD1Roads08_LAe01, laeast2_lod, 450, 128
+6595, LODLae2_roads30, laeast2_lod, 450, 128
+6596, LODLae2_roads46, laeast2_lod, 450, 128
+6597, LODgrnd05_lae2, laeast2_lod, 450, 128
+6598, LODLae2_roads18, laeast2_lod, 450, 128
+6599, LODstrmdranLAE2, laeast2_lod, 450, 128
+6600, LODlae2_ground18, laeast2_lod, 450, 128
+6601, LOD1Roads07_LAe01, laeast2_lod, 450, 128
+6602, LODlae2_ground07, laeast2_lod, 450, 128
+6603, LODLae2_roads16, laeast2_lod, 450, 128
+6604, LODLae2_roads15, laeast2_lod, 450, 128
+6605, LODLae2_roads01, laeast2_lod, 450, 128
+6606, LOD1Roads32_LAe01, laeast2_lod, 450, 128
+6607, LOD1Roads31_LAe01, laeast2_lod, 450, 128
+6608, LOD1beach01_LAe01, laeast2_lod, 450, 128
+6609, LODLae2_roads10, laeast2_lod, 450, 128
+6610, LODLae2_roads79, laeast2_lod, 450, 128
+6611, LODLae2_roads80, laeast2_lod, 450, 128
+6612, LODlae2_ground11, laeast2_lod, 450, 128
+6613, LODlae2_ground08, laeast2_lod, 450, 128
+6614, LOD1gangshops1_LAe, laeast2_lod, 450, 128
+6615, LOD1pgpnblk1LAe, laeast2_lod, 450, 128
+6616, LOD1barrio04_LAe01, laeast2_lod, 450, 128
+6617, LOD1beach02_LAe01, laeast2_lod, 450, 128
+6618, LOD1barrio03_LAe01, laeast2_lod, 450, 128
+6619, LODae2_bigblock, laeast2_lod, 450, 128
+6620, LOD1LongBBk1_LAe, laeast2_lod, 450, 128
+6621, LOD1barrio06_LAe, laeast2_lod, 450, 128
+6622, LOD1hydro3_LAe, laeast2_lod, 450, 128
+6623, LOD1wattspark1_LAe, laeast2_lod, 350, 128
+6624, LOD1BBallBlok1_LAe, laeast2_lod, 450, 128
+6625, LOD1Furniture_LAe, laeast2_lod, 450, 128
+6626, LOD1gangshop7_lae, laeast2_lod, 450, 128
+6627, LOD1BlockK_LAe, laeast2_lod, 450, 128
+6628, LOD1cineblock1_LAe, laeast2_lod, 450, 128
+6629, LOD1StormDrai5_LAe, laeast2_lod, 450, 128
+6630, LOD1BeachBlok7_LAe, laeast2_lod, 450, 128
+6631, LODlae2_ground17, laeast2_lod, 450, 128
+6632, LODlae2_ground16, laeast2_lod, 450, 128
+6633, LODLae2_roads55, laeast2_lod, 450, 128
+6634, LODlandHUB07, laeast2_lod, 450, 128
+6635, LODstadtplaza_lae2, laeast2_lod, 450, 128
+6636, LOD1EBechA2LAe, laeast2_lod, 450, 128
+6637, LOD1BchBlok5_LAe, laeast2_lod, 450, 128
+6638, LOD1MsCpTn2_LAe, laeast2_lod, 450, 128
+6639, LOD1MStorCP_LAe, laeast2_lod, 450, 128
+6640, LOD1LBchBkz_LAe, laeast2_lod, 450, 128
+6641, LOD1BchBlk02_LAe, laeast2_lod, 450, 128
+6642, LOD1BchBlk01_LAe, laeast2_lod, 450, 128
+6643, LOD1srthood_LAe, laeast2_lod, 450, 128
+6644, LOD1clukinbel_LAe, laeast2_lod, 450, 128
+6645, LOD1lndprt1_lae, laeast2_lod, 450, 128
+6646, LOD1mrkt1_lae, laeast2_lod, 450, 128
+6647, LOD1markt2_lae, laeast2_lod, 450, 128
+6648, LOD1scmgym1_LAe, laeast2_lod, 450, 128
+6649, LODlae2_ground06, laeast2_lod, 450, 128
+6650, LOD1BarbBlk1_LAe, laeast2_lod, 450, 128
+6651, LODLiqorstr1_LAe, laeast2_lod, 450, 128
+6652, LOD1hubridge1_LAe, laeast2_lod, 450, 128
+6653, LOD1dambld1_LAe, laeast2_lod, 450, 128
+6654, LODRvrBrdge1_LAe, laeast2_lod, 450, 128
+6655, LOD1Strpbar_lae, laeast2_lod, 450, 128
+6656, LOD1gagshps2_LAe, laeast2_lod, 450, 128
+6657, LOD1bario3A_LAe, laeast2_lod, 450, 128
+6658, LOD1carlshou1_LAe, laeast2_lod, 450, 128
+6659, LOD1rydkyr1_LAe, laeast2_lod, 450, 128
+6660, LODmcstraps_LAe2, laeast2_lod, 450, 128
+6661, LOD1swetho1_LAe, laeast2_lod, 450, 128
+6662, LOD1EBBrij1_LAe, laeast2_lod, 450, 128
+6663, LODlae2_ground02, laeast2_lod, 450, 128
+6664, LODLae2_roads28, laeast2_lod, 450, 128
+6665, LODLae2_roads22, laeast2_lod, 450, 128
+6666, LODLae2_roads23, laeast2_lod, 450, 128
+6667, LODLae2_roads25, laeast2_lod, 450, 128
+6668, LODLae2_roads26, laeast2_lod, 450, 128
+6669, LODLae2_roads24, laeast2_lod, 450, 128
+6670, LODLae2_roads37, laeast2_lod, 450, 128
+6671, LODLae2_roads90, laeast2_lod, 450, 128
+6672, LODlae2_grnd09, laeast2_lod, 450, 128
+6673, LODlae2_grnd10, laeast2_lod, 450, 128
+6674, LODLae2_roads83, laeast2_lod, 450, 128
+6675, LODLae2_roads11, laeast2_lod, 450, 128
+6676, LODLae2_roads66, laeast2_lod, 450, 128
+6677, LODlae2_rdscost06, laeast2_lod, 450, 128
+6678, LODLae2_roads67, laeast2_lod, 450, 128
+6679, LODLae2_roads68, laeast2_lod, 450, 128
+6680, LODLae2_roads34, laeast2_lod, 450, 128
+6681, LODLae2_roads38, laeast2_lod, 450, 128
+6682, LODLae2_roads41, laeast2_lod, 450, 128
+6683, LODLae2_roads58, laeast2_lod, 450, 128
+6684, LODLae2_roads36, laeast2_lod, 450, 128
+6685, LODLae2_roads42, laeast2_lod, 450, 128
+6686, LODLae2_roads59, laeast2_lod, 450, 128
+6687, LODLae2_roads86, laeast2_lod, 450, 128
+6688, LODLae2_roads57, laeast2_lod, 450, 128
+6689, LODLae2_roads56, laeast2_lod, 450, 128
+6690, LODlae2_rdscost05, laeast2_lod, 450, 128
+6691, LODLae2_roads01b, laeast2_lod, 450, 128
+6692, LODLae2_roads13, laeast2_lod, 450, 128
+6693, LODLBeachApts1_LAe, laeast2_lod, 450, 128
+6694, LBeachApts1_LAe2, eastbeach2a_lae2, 100, 128
+6695, BeachApartAT_LAe2, lae2coast_alpha, 80, 2097284
+6696, LOD1BchAptA4_LAe, laeast2_lod, 450, 128
+6697, BeachApartA4_LAe2, coast_apts, 80, 0
+6698, LOD1BchApA5_LAe, laeast2_lod, 450, 128
+6699, BeachApartA5_LAe2, coast_apts, 80, 128
+6700, LODLae2_roads12, laeast2_lod, 450, 128
+6701, LODlae2_rdscost03, laeast2_lod, 450, 128
+6702, LODLae2_roads06, laeast2_lod, 450, 128
+6703, LODLae2_roads07, laeast2_lod, 450, 128
+6704, LODLae2_roads08, laeast2_lod, 450, 128
+6705, LODLae2_roads09, laeast2_lod, 450, 128
+6706, LODLae2_roads14, laeast2_lod, 450, 128
+6707, LODLae2_roads39, laeast2_lod, 450, 128
+6708, LODLae2_roads35, laeast2_lod, 450, 128
+6709, LODLae2_roads33, laeast2_lod, 450, 128
+6710, LODLae2_roads29, laeast2_lod, 450, 128
+6711, LODLae2_roads32, laeast2_lod, 450, 128
+6712, LODLae2_roads81, laeast2_lod, 450, 128
+6713, LODLae2_roads78, laeast2_lod, 450, 128
+6714, LODLae2_roads82, laeast2_lod, 450, 128
+6715, LODLae2_roads21, laeast2_lod, 450, 128
+6716, LODLae2_roads19, laeast2_lod, 450, 128
+6717, LODLae2_roads20, laeast2_lod, 450, 128
+6718, LODLae2_roads49, laeast2_lod, 450, 128
+6719, Lae2_roads48, lae2roads, 150, 0
+6720, LODLae2_roads48, laeast2_lod, 450, 128
+6721, LODLae2_roads47, laeast2_lod, 450, 128
+6722, LODLae2_roads05, laeast2_lod, 450, 128
+6723, LODLae2_roads85, laeast2_lod, 450, 128
+6724, LODLae2_roads02, laeast2_lod, 450, 128
+6725, LODLae2_roads52, laeast2_lod, 450, 128
+6726, LODLae2_roads50, laeast2_lod, 450, 128
+6727, LODLae2_roads04, laeast2_lod, 450, 128
+6728, LODLae2_roads17, laeast2_lod, 450, 128
+6729, LOD6gymblok2, laeast2_lod, 450, 128
+6730, LODbrg_lae26, laeast2_lod, 450, 128
+6731, gymblok2_lae2, gymblok2_lae2, 80, 0
+6732, LODLae2_landHUB01, laeast2_lod, 450, 128
+6733, LODLae2_lndHUB02, laeast2_lod, 450, 128
+6734, LODLae2_lndHUB04, laeast2_lod, 450, 128
+6735, LODLae2_lndHUB05, laeast2_lod, 450, 128
+6736, LODLae2_lndHUB06, laeast2_lod, 450, 128
+6737, LODbrglae2, laeast2_lod, 450, 128
+6738, pigpen_props, eastlstr2_lae2, 80, 132
+6739, Lae2_roads60, lae2roads, 150, 1
+6740, LODLae2_roads60, laeast2_lod, 450, 128
+6741, cineblok_alpha, cinemart_alpha, 80, 2097284
+6742, autoshpblok_lae2, eastls4_lae2, 100, 0
+6743, cine_mark_lae2, eastls4_lae2, 60, 128
+6744, cinmamkr_alpha, cinemart_alpha, 70, 132
+6745, LODautoshpblok_lae, laeast2_lod, 450, 128
+6746, LODcine_mark, laeast2_lod, 450, 128
+6747, LODRiverBridge2_LAe, laeast2_lod, 450, 128
+6748, LODLae2_roads89, laeast2_lod, 450, 128
+6749, cinemark2_lae2, eastls4_lae2, 60, 128
+6750, autoshp_alpha, cinemart_alpha, 90, 2097284
+6751, LODcinemark2, laeast2_lod, 450, 128
+6752, compomark_lae2, compomark_lae2, 60, 0
+6753, compmart_alpha, cinemart_alpha, 150, 2097284
+6754, comp_puchase, compomark_lae2, 150, 0
+6755, comp_ground, compomark_lae2, 150, 0
+6756, grass_bank, landlae2e, 150, 0
+6757, Lae2_roads46b, lae2roads, 150, 0
+6758, LODcompomark, laeast2_lod, 450, 128
+6759, LODcomp_ground, laeast2_lod, 450, 128
+6760, LODcomp_puchase, laeast2_lod, 450, 128
+6761, LODlae2_ground03, laeast2_lod, 450, 128
+6762, grbank_alpha, cinemart_alpha, 60, 132
+6763, LOD_grassbank, laeast2_lod, 450, 128
+6764, hubst_alpha, hub_alpha, 80, 2097284
+6765, hubst2_alpha, hub_alpha, 80, 2097284
+6766, hubst3_alpha, hub_alpha, 80, 2097284
+6767, lae2_hubgrass, landhub, 150, 0
+6768, lae2_hubgrass2, landhub, 150, 0
+6769, hubst4alpha, hub_alpha, 80, 2097284
+6770, hub_grass3, landhub, 150, 0
+6771, hub5_grass, landhub, 150, 0
+6772, LODlae2_hubgrass, laeast2_lod, 450, 128
+6773, LODlae2_hubgrass2, laeast2_lod, 450, 128
+6774, LODbarrio6b_lae2, laeast2_lod, 450, 128
+6775, LODrydhou_LAe2, laeast2_lod, 450, 128
+6776, stdrain_alpha, hub_alpha, 120, 2097284
+6777, stdrain_alpha2, hub_alpha, 150, 2097284
+6778, EBeachAp2_LAe2, eastbeach4a_lae2, 100, 0
+6779, lod_corner, laeast2_lod, 450, 128
+6780, LODtempLB1_LAe, laeast2_lod, 450, 128
+6781, ground2_alpha, eastlstr2_lae2, 100, 2097284
+6782, grnd02_lae2, lae2grnd, 150, 0
+6783, splitapts01, lae2grnd, 80, 0
+6784, splitapts02, lae2grnd, 80, 0
+6785, LODsplitapts, laeast2_lod, 450, 128
+6786, LODsplitapts2, laeast2_lod, 450, 128
+6787, cparkshit_alpha, eastlstr_lae2, 50, 2097284
+6788, hubbrdge_alphab, hub_alpha, 150, 132
+6789, blockN_alpha, lae2coast_alpha, 100, 2097284
+6790, LODlae2_blockN, laeast2_lod, 450, 128
+6791, coast_apts, coast_apts, 100, 0
+6792, coastapt_alpha, lae2coast_alpha, 120, 2097284
+6793, LODcoast_apts, laeast2_lod, 400, 128
+6794, blokz_fireescape, ebeach_veg, 80, 2097284
+6795, bighillalpha, eastlstr2_lae2, 100, 2097284
+6796, lae2_ground15b, landlae2c, 150, 0
+6797, bighillalpha2, eastlstr2_lae2, 100, 2097284
+6798, LODlae15_ground, laeast2_lod, 450, 128
+6799, LODLongBeBlokx_LAe, laeast2_lod, 450, 128
+6800, LODconcbblok1_lae, laeast2_lod, 450, 128
+6801, stdrainalpha3, stormd_fill, 150, 2097284
+6802, stdrainalpha3b, stadtplaza_lae2, 200, 2097284
+6803, hubbrdge_alpha, hub_alpha, 150, 132
+6804, LODstormdrainLAE2, laeast2_lod, 450, 128
+6805, lae2billbrds2, lae2billboards, 70, 132
+6806, lae2billbrds3, lae2billboards, 70, 132
+6807, lae2billbrds4, lae2billboards, 80, 132
+6808, lae2billbrds5, lae2billboards, 80, 132
+6809, lae2billbrds6, lae2billboards, 120, 132
+6810, Lae2_roads49, lae2roads, 150, 1
+6811, Lae2_roads82, lae2roads, 100, 1
+6812, coast_apts2, coast_apts, 80, 0
+6813, LODcoast_apts2, laeast2_lod, 400, 128
+6814, LODRiverBridge3, laeast2_lod, 450, 128
+6815, carls_faux, lae2fake_int, 15, 128
+6816, sweet_faux_ent, lae2fake_int, 40, 128
+6817, Lae2_roads06, lae2roads, 150, 1
+6818, burnsfakeint, eastls3_lae2, 60, 128
+6819, LOD1Roads26_LAe01, laeast2_lod, 450, 0
+6820, LODLae2_roads53, laeast2_lod, 450, 0
+6821, LODLae2_roads76, laeast2_lod, 450, 0
+6822, LOD1powerstat1_LAe, laeast2_lod, 450, 0
+6823, Carter-light15b, carter_mainmap, 60, 0
+6824, coochieghous, coochieghous, 80, 128
+6825, LODcochieghos, laeast2_lod, 450, 128
+6826, rbridge3_girders, stormd_fill, 100, 2097284
+6827, stormd_fill, stormd_fill, 150, 2097284
+6828, stormd_fillc, stormd_fill, 200, 2097284
+6829, stormd_fillb, stormd_fill, 150, 2097284
+6830, rbridg23_girders, stormd_fill, 100, 2097284
+6831, stormd_filld, stormd_fill, 150, 2097284
+6832, stormd_fille, stormd_fill, 150, 2097284
+6833, ebeachalpha5b, lae2_alphabits, 150, 2097284
+6834, LngBeBlok2_LAe, lngblok_lae2, 200, 128
+6835, LODLngBeBlok2, laeast2_lod, 450, 128
+6836, Carter_GROUND, carter_mainmap, 60, 0
+6837, burg_alpha, lae2coast_alpha, 120, 2097284
+6838, LODburgho_LAe, laeast2_lod, 450, 128
+6839, LODrstybrj01_LAe, laeast2_lod, 450, 2097280
+6840, cjsaveg, contachou1_lae2, 100, 0
+6841, cjgaragedoor, contachou1_lae2, 100, 2048
+6842, LODcjsaveg, laeast2_lod, 450, 128
+6843, conc_bblok, beach_lae2, 100, 128
+6848, buringd_alpha, burnsalpha, 100, 4
+6849, LODLae2_roads65, laeast2_lod, 450, 128
+6850, LODLae2_roads64, laeast2_lod, 450, 128
+6851, LODlae2_ground15b, laeast2_lod, 450, 128
+6852, LODLae2_lndHB05b, laeast2_lod, 450, 128
+6853, LODsrthoodb_LAe, laeast2_lod, 450, 128
+6854, LODgangshps1b, laeast2_lod, 450, 128
+6855, LODgangshps1c, laeast2_lod, 450, 128
+6856, LODgangshps1d, laeast2_lod, 450, 128
+6857, gangshps1b_lod, laeast2_lod, 450, 128
+6858, hubridge_smash, hub_alpha, 150, 132
+6859, hub_graffitti, contachou1_lae2, 70, 132
+6860, lod_billbrds, laeast2_lod, 450, 128
+end
+tobj
+6469, Liquorstore03_LAe2, ganton02_lae2, 60, 132, 20, 6
+6844, nitelites_LAE2, nitelites_lae2, 450, 12, 20, 6
+6845, nitelitesb_LAE2, nitelites_lae2, 450, 12, 20, 6
+6846, nitelitesc_LAE2, nitelites_lae2, 450, 12, 20, 6
+6847, nitelitesd_LAE2, nitelites_lae2, 450, 12, 20, 6
+end
+path
+end
+2dfx
+end
+anim
+end
+txdp
+lae2roads,gb_laroads
+lae2newtempbx,gb_laroads
+lae2roadshub,gb_laroads
+lae2roadscoast,gb_laroads
+barrio1_lae2,gb_lageneric
+burnsalpha,gb_lageneric
+cinemart_alpha,gb_lageneric
+eastbeach09_lae2,gb_lageneric
+eastbeach2a_lae2,gb_lageneric
+eastbeach8_lae2,gb_lageneric
+eastls1b_lae2,gb_lageneric
+eastls3_lae2,gb_lageneric
+eastls4_lae2,gb_lageneric
+eastlstr2_lae2,gb_lageneric
+eastlstr_lae2,gb_lageneric
+furniture_lae2,gb_lageneric
+ganton02_lae2,gb_lageneric
+gymblok2_lae2,gb_lageneric
+hub_alpha,gb_lageneric
+lae2bigblock,gb_lageneric
+lae2bridge,gb_lageneric
+lae2coast_alpha,gb_lageneric
+landcoast_lae2,gb_lageneric
+landlae2,gb_lageneric
+lngblok_lae2,gb_lageneric
+losflor2_lae2,gb_lageneric
+losflor4_lae2,gb_lageneric
+stormdrain,gb_lageneric
+beach_lae2,gb_la
+blackwestran1_lae2,gb_la
+burnsground,gb_la
+carter_mainmap,gb_la
+coast_apts,gb_la
+compomark_lae2,gb_la
+contachou1_lae2,gb_la
+coochieghous,gb_la
+eastbeach3c_lae2,gb_la
+eastbeach7_lae2,gb_la
+eastls1_lae2,gb_la
+ebeach_veg,gb_la
+ebeachcineblok,gb_la
+gangblok1_lae2,gb_la
+ganton01_lae2,gb_la
+lae2billboards,gb_la
+lae2fake_int,gb_la
+lae2grnd,gb_la
+lae2tempshit,gb_la
+laeast2_lod,gb_la
+landhub,gb_la
+landlae2b,gb_la
+landlae2c,gb_la
+landlae2e,gb_la
+nitelites_lae2,gb_la
+stadium_lae2,gb_la
+stadtplaza_lae2,gb_la
+stormd_fill,gb_la
+templae2land,gb_la
+eastbeach4a_lae2,gb_la
+lae2_alphabits,gb_la
+end
