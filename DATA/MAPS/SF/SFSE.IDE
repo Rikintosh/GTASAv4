@@ -1,0 +1,807 @@
+objs
+10740, roadsSFSE01, freeways_sfse, 200, 0
+10741, roadsSFSE02, genroads_sfse, 200, 0
+10742, just_stuff07_sfse, traintunnel1_sfse, 200, 0
+10743, roadsSFSE03, freeways_sfse, 200, 0
+10744, road_sfse12, traindocks_sfse, 150, 0
+10745, Airport_02_SFSe, airportrminl_sfse, 250, 0
+10746, Airport_03_SFSe, airportroads_sfse, 175, 0
+10747, Airport_04_SFSe, airwelcome_sfse, 150, 0
+10748, Airport_05_SFSe, airportroads_sfse, 175, 0
+10749, roadsSFSE04, airportroads_sfse, 200, 0
+10750, Airport_07_SFSe, airportroads_sfse, 150, 0
+10751, Airport_08_SFSe, airportroads_sfse, 150, 0
+10752, Airport_09_SFSe, airport_sfse, 299, 4
+10753, controltower_SFSe, airport1_sfse, 200, 0
+10754, app_light_SFS05e, airport1_sfse, 100, 0
+10755, skidmarks_SFSe, airportgnd_sfse, 299, 4
+10756, Airport_10_SFSe, airportgnd_sfse, 299, 0
+10757, Airport_11_SFSe, airportgnd_sfse, 299, 0
+10758, airprtgnd_06_SFSe, airportgnd_sfse, 299, 0
+10759, Airport_14_SFSe, docks2_sfse, 180, 4
+10760, CARRIER_BRIDGE_SFSe, carrier_sfse, 150, 0
+10761, CARRIER_HULL_SFSe, carrier_sfse, 180, 0
+10762, CARRIER_LINES_SFSe, carrier_sfse, 150, 0
+10763, dk_cargoshp2_SFSe, dkcargoshpe, 150, 128
+10764, dk_cargoshp1_SFS01e, dkcargoshpe, 150, 128
+10765, bigfactory_SFSe, factory_sfse, 150, 4
+10766, bigfactory2_SFSe, factory_sfse, 100, 4
+10767, ddfreeway3_SFSe, oldfreeway_sfse, 200, 0
+10768, aircarpark_01_SFSe, airportcpark_sfse, 170, 0
+10769, aircarpark_06_SFSe, airportcpark_sfse, 299, 0
+10770, aircarpark_07_SFSe, airportcpark_sfse, 299, 0
+10771, aircarpark_08_SFSe, airportcpark_sfse, 299, 0
+10772, aircarpark_02_SFSe, airportcpark_sfse, 299, 0
+10773, aircarpark_03_SFSe, airportcpark_sfse, 299, 0
+10774, aircarpark_04_SFSe, airportcpark_sfse, 299, 0
+10775, aircarpark_05_SFSe, airportcpark_sfse, 299, 0
+10776, aircarpark_09_SFSe, airportcpark_sfse, 299, 0
+10777, aircarpark_10_SFSe, airportcpark_sfse, 200, 0
+10778, aircarpark_11_SFSe, airportcpark_sfse, 200, 0
+10779, xenonroof_SFSe, xenon_sfse, 150, 0
+10780, roadsSFSE05, freeways_sfse, 200, 0
+10781, roadsSFSE06, freeways_sfse, 200, 0
+10782, underfreeway_SFSe, freeways_sfse, 299, 0
+10783, car_ship_03_SFSe, car_ship_sfse, 250, 0
+10784, car_ship_04_SFSe, car_ship_sfse, 230, 0
+10785, car_ship_05_SFSe, car_ship_sfse, 250, 0
+10786, LOD_sfs080e, lod_sfse3, 600, 0
+10787, LOD_sfs081e, lod_sfse3, 600, 0
+10788, LODroadsSFSE02, lod_sfse2, 1500, 0
+10789, LODroadsSFSE01, lod_sfse2, 1500, 0
+10790, LODroadsSFSE78, lod_sfse3, 600, 0
+10791, LODroadsSFSE06, lod_sfse2, 1500, 0
+10792, LODroadsSFSE72, lod_sfse3, 600, 0
+10793, LODroadsSFSE14, lod_sfse3, 600, 0
+10794, LODroadsSFSE04, lod_sfse2, 1400, 0
+10795, LODroadsSFSE15, lod_sfse, 600, 0
+10796, airfence_01_SFSe, airfence_sfse, 299, 4
+10797, airfence_04_SFSe, airfence_sfse, 299, 4
+10798, airfence_03_SFSe, airfence_sfse, 299, 4
+10799, airfence_02_SFSe, airfence_sfse, 299, 4
+10800, ap_smallradar1_SFSe, ap_build4e, 150, 4
+10801, apfuel1_SFSe, airportbits_sfse, 150, 0
+10802, LODflargetank1e, lod_sfse2, 600, 0
+10803, LODsmallradar1_SFSe, lod_sfse2, 600, 0
+10804, apfuel2_SFSe, airportbits_sfse, 200, 0
+10805, airprtgnd_02_SFSe, airportgnd_sfse, 299, 4
+10806, airprtgnd_01_SFSe, airportgnd_sfse, 299, 0
+10807, airprtgnd_03_SFSe, airportgnd_sfse, 299, 0
+10808, airprtgnd_04_SFSe, airportgnd_sfse, 299, 0
+10809, airprtgnd_05_SFSe, airportgnd_sfse, 299, 0
+10810, baybridge1_SFSe, roadbridge_sfse, 200, 0
+10811, baybridge2_SFSe, roadbridge_sfse, 200, 4
+10812, baybridge3_SFSe, roadbridge_sfse, 200, 4
+10813, baybridge4_SFSe, roadbridge_sfse, 200, 4
+10814, subpen_int_SFSe, subpen1_sfse, 150, 0
+10815, subpen_crane_SFSe, subpen2_sfse, 150, 4
+10816, subpen_ext_SFSe, subpen1_sfse, 150, 0
+10817, subbunker_ext_SFSe, subpen1_sfse, 150, 0
+10818, drydock1_SFSe, drydockgate_sfse, 125, 0
+10819, gatehouse1_SFSe, gatehouse_sfse, 100, 0
+10820, drydock2_SFSe, drydockshed_sfse, 150, 0
+10821, drydock3_SFSe, drydockshed_sfse, 150, 0
+10822, gatehouse2_SFSe, gatehouse_sfse, 100, 0
+10823, navybase_02_SFSe, subpen1_sfse, 200, 0
+10824, navybase_03_SFSe, subpen1_sfse, 175, 0
+10825, navyfence2_SFSe, navybasefence, 150, 4
+10826, apinnerfence3_SFSe, apsecurity_sfse, 299, 4
+10827, ap_bigsign_SFSe, airroadsigns_sfse, 100, 0
+10828, airwelcomesign_SFSe, airwelcomesign_sfse, 299, 0
+10829, aircarpkbarier_SFSe, aircarpkbarier_sfse, 100, 0
+10830, bigshed_SFSe, bigshed_sfse, 200, 0
+10831, drydock1_SFSe01, drydockgate_sfse, 170, 0
+10832, Airport_14_SFSe01, docks2refl_sfse, 150, 0
+10833, bigshed_SFSe01, bigshed_sfse, 200, 0
+10834, gen_whouse01_SFSe, genwhse_sfse, 150, 0
+10835, gen_whouse02_SFSe, genwhse_sfse, 150, 0
+10836, gen_whouse03_SFSe, genwhse_sfse, 150, 0
+10837, gen_whouse03_SFSe01, genwhse_sfse, 150, 0
+10838, roadsSFSE07, genroads_sfse, 200, 0
+10839, roadsSFSE08, freeways_sfse, 200, 0
+10840, landbit01_SFSe, bakerybit2_sfse, 200, 0
+10841, sfseland02, groundbit_sfse, 170, 0
+10842, roadsSFSE09, dockroad_sfse, 200, 0
+10843, LODroadsSFSE08, lod_sfse2, 1500, 0
+10844, roadsSFSE10, genroads_sfse, 200, 0
+10845, roadsSFSE11, genroads_sfse, 200, 0
+10846, viet_03b_SFSe, bakerybit_sfse, 150, 0
+10847, roadsSFSE12, freeways3_sfse, 200, 0
+10848, roadsSFSE13, navyroad_sfse, 200, 0
+10849, roadsSFSE14, freeways_sfse, 200, 0
+10850, roadsSFSE15, freeways3_sfse, 200, 0
+10851, bigjunction_05_SFSe, groundbit_sfse, 299, 0
+10852, bigjunction_06_SFSe, groundbit_sfse, 200, 0
+10853, bigjunction_07_SFSe, groundbit_sfse, 299, 0
+10854, bigjunction_08_SFSe, bridgeland_sfse, 260, 0
+10855, bigjunct_09_SFSe, xenon_sfse, 200, 0
+10856, roadsSFSE16, genroads_sfse, 200, 0
+10857, roadsSFSE18, genroads_sfse, 200, 0
+10858, roadsSFSE19, genroads_sfse, 200, 0
+10859, roadsSFSE20, genroads_sfse, 200, 0
+10860, roadsSFSE21, freeways3_sfse, 200, 0
+10861, blacksky_SFSe, blacksky_sfse, 200, 0
+10862, wc_lift_SFSe, wc_lift_sfse, 299, 4
+10863, blackskyrail_SFSe, blacksky_sfse, 299, 4
+10864, apinnerfence1_SFSe, apsecurity_sfse, 299, 4
+10865, apinnerfence2_SFSe, apsecurity_sfse, 299, 4
+10866, LODprtgnd_04_SFSe, lod_sfse2, 1400, 0
+10867, LODprtgnd_03_SFSe, lod_sfse3, 1400, 0
+10868, LODprtgnd_01_SFSe, lod_sfse69, 1400, 0
+10869, LODport_11_SFSe, lod_sfse69, 1400, 0
+10870, LODport_10_SFSe, lod_sfse69, 1400, 0
+10871, LODprtgnd_05_SFSe, lod_sfse69, 1400, 0
+10872, LODprtgnd_06_SFSe, lod_sfse69, 1400, 0
+10873, LODport_02_SFSe, lod_sfse3, 1400, 0
+10874, LODtroltower_SFSe, lod_sfse3, 800, 0
+10875, navyfence_SFSe, navybasefence, 150, 4
+10876, LODyfence2_SFSe, lod_sfse, 600, 0
+10877, LODyfence_SFSe, lod_sfse, 1400, 0
+10878, LODdock2_SFSe, lod_sfse3, 600, 0
+10879, dockbarrier1_SFSe, docks2_sfse, 150, 2097152
+10880, dockbarrier2_SFSe, docks2_sfse, 150, 0
+10881, bakery_SFSe, bakery_sfse, 150, 0
+10882, LODbigshed_SFSe03, lod_sfse3, 600, 0
+10883, LODdock1_SFSe, lod_sfse3, 1400, 0
+10884, LODport_14_SFSe, lod_sfse3, 1400, 0
+10885, LODjunct_10_SFSe, lod_sfse, 1400, 0
+10886, LODybase_02_SFSe, lod_sfse69, 1400, 0
+10887, LODbunker_ext_SFSe, lod_sfse, 1400, 0
+10888, LODpen_ext_SFSe, lod_sfse69, 1400, 0
+10889, LODybase_03_SFSe, lod_sfse69, 1400, 0
+10890, LODpen_int_SFSe, lod_sfse69, 1400, 0
+10891, LODRIER_HULL_SFSe, lod_sfse69, 1400, 0
+10892, LODcksky_SFSe, lod_sfse, 1400, 0
+10893, sf_landbut02, landsfe, 219, 0
+10894, sf_landbut01, landsfe, 220, 0
+10895, sfseland01, landsfe, 180, 0
+10896, LODsfandbut201, lod_sfse3, 1400, 0
+10897, LODsfandbut202, lod_sfse2, 1400, 0
+10898, LODsfseland01, lod_sfse3, 1500, 0
+10899, LODsfseland02, lod_sfse2, 1500, 0
+10900, lod_whouse01_SFSe, lod_sfse3, 600, 0
+10901, lod_whouse02_SFSe, lod_sfse3, 600, 0
+10902, LODbigshed_SFSe, lod_sfse3, 600, 0
+10903, LODwhouse03_SFSe01, lod_sfse3, 600, 0
+10904, LODdock3_SFSe, lod_sfse3, 600, 0
+10905, LOD_whouse03_SFSe, lod_sfse3, 600, 0
+10906, LODbakery_SFSe, lod_sfse3, 600, 0
+10907, landbit01b_SFSe, landsfe, 200, 0
+10908, LODdbit01b_SFSe, lod_sfse3, 600, 0
+10909, LODdbit01_SFSe, lod_sfse3, 600, 0
+10910, LODroad_sfse12, lod_sfse3, 600, 0
+10911, lod_03_SFSe, lod_sfse3, 600, 0
+10912, lodjunction_07_SFSe, lod_sfse, 1400, 0
+10913, LODport_05_SFSe, lod_sfse3, 1400, 0
+10914, LODAirport_03_SFSe, lod_sfse2, 1400, 0
+10915, shoppie1_SFS, shopszz_sfse, 100, 0
+10916, groundbit_70_SFS, shops_sfse, 299, 0
+10917, trainstuff37_SFS22, traintunnel1_sfse, 200, 0
+10918, roadsSFSE22, genroads_sfse, 200, 0
+10919, roadsSFSE23, genroads_sfse, 200, 0
+10920, roadsSFSE24, genroads_sfse, 200, 0
+10921, traintrax05_SFS, traingen_sfse, 200, 0
+10922, station03_SFS, station_sfse, 200, 4
+10923, traintrax01_SFS, traingen_sfse, 200, 0
+10924, traintrax03_SFS, traingen_sfse, 200, 0
+10925, traintrax04_SFS, traingen_sfse, 200, 0
+10926, landbit04_SFS, stadiumground_sfse, 200, 0
+10927, roadsSFSE25, freeways_sfse, 200, 0
+10928, Groundbit84_SFS, skyscrap_sfse, 200, 0
+10929, Silicon09B_SFS, silicon_sfse, 299, 0
+10930, roadsSFSE26, fosterroads_sfse, 200, 0
+10931, Silicon11_SFS, silicon2_sfse, 280, 0
+10932, Silicon12_SFS, silicon2_sfse, 299, 4
+10933, SV_ground_02_SFS, silicon_sfse, 229, 0
+10934, southtunnel_04_SFS, traintunnel2_sfse, 299, 0
+10935, skyscrap_SFS, skyscrap_sfse, 200, 0
+10936, fuuuuuuuck_SFS, shops_sfse, 299, 0
+10937, officy_SFS, cityhall_sfse, 120, 0
+10938, skyscrapper_SFS, skyscrapper_sfs, 200, 0
+10939, shoppie4_SFS, shopszz_sfse, 100, 0
+10940, shoppie2_SFS, shops_sfse, 100, 0
+10941, shoppie3_SFS, shops_sfse, 150, 0
+10942, shoppie6_SFS, shops2_sfse, 100, 0
+10943, shoppie5_SFS, shops2extra_sfse, 100, 0
+10944, stadium_SFSe, stadium_sfse, 200, 0
+10945, stadiumroof_SFS, stadium_sfse, 200, 0
+10946, southtunnel_01_SFS, traintunnel2_sfse, 200, 0
+10947, xsjmstran1, traintunnel2_sfse, 250, 0
+10948, roadsSFSE27, freeways_sfse, 200, 0
+10949, cuntwland36_SFS, silconland_sfse, 221, 0
+10950, cuntwland37_SFS, silconland_sfse, 270, 0
+10951, cuntwland39_SFS, silconland_sfse, 299, 0
+10952, cuntwland26_SFS, silconland_sfse, 220, 0
+10953, lodtwland25_SFS, lod_sfse2, 1200, 0
+10954, lodtwland27_SFS, lod_sfse2, 600, 0
+10955, depot_SFS, depot_sfse, 200, 0
+10956, tankfact03_SFS, depot_sfse, 200, 0
+10957, roadsSFSE28, freeways_sfse, 200, 0
+10958, roadsSFSE29, freeways_sfse, 200, 0
+10959, groundbit_06_SFS, scum_sfse, 299, 0
+10960, roadsSFSE30, genroads_sfse, 200, 0
+10961, roadsSFSE31, stadjunct_sfse, 250, 0
+10962, landbit06_SFS, groundbit_sfse, 140, 0
+10963, mall_03_SFS, mall_sfse, 150, 0
+10964, mall_01_SFS, mall_sfse, 150, 0
+10965, shoppie6_SFS01, mission4_sfs, 100, 0
+10967, smallshop_16_SFS, mission_sfse, 100, 0
+10968, smallshop_17_SFS, mission_sfse, 100, 0
+10969, haightshop_SFS, mission_sfse, 100, 0
+10970, tempobj2_SFS02, mission3z_sfse, 100, 0
+10971, scum_SFS, mission3_sfse, 100, 0
+10972, smallshop_10_SFS03, mission2apts_sfse, 100, 0
+10973, hub_SFS, hub_sfse, 200, 0
+10974, rubbled01_SFS, demolished1_sfse, 150, 4
+10975, rubbled02_SFS, demolished1_sfse, 150, 4
+10976, rubbled03_SFS, demolished1_sfse, 150, 4
+10977, coveredpath1_SFS, coveredpath_sfs, 100, 4
+10978, mission_01_SFS, mission2_sfse, 100, 0
+10979, mission_02_SFS, mission_sfse, 100, 0
+10980, mission_04_SFS, mission3_sfse, 100, 0
+10981, mission_05_SFS, mission2_sfse, 100, 0
+10982, mission_03_SFS, mission2apts_sfse, 100, 0
+10983, mission_06_SFS, scum_sfse, 100, 0
+10984, shoppie6_SFS02, scum_sfse, 100, 0
+10985, mission_08_SFS, scum_sfse, 150, 0
+10986, smallshop_10_SFS05, midtownshops_sfs, 100, 0
+10987, smallshop_10_SFS06, scum_sfse, 100, 0
+10988, mission_11_SFS, scum_sfse, 150, 0
+10989, haightshop_SFS02, scum_sfse, 100, 0
+10990, smallshop_17_SFS01, mission3_sfse, 100, 0
+10991, mission_16_SFS, mission3_sfse, 100, 0
+10992, tempobj_SFS03, mission2_sfse, 100, 0
+10993, roadsSFSE32, genroads_sfse, 200, 0
+10994, mission_18_SFS, mission2apts_sfse, 150, 0
+10995, mission_17_SFS, mission2_sfse, 299, 0
+10996, mission_09_SFS, mission3ground_sfse, 200, 0
+10997, crack_wins_SFS, crack_int_sfse, 150, 4
+10998, firehouse_SFS, firehouse_sfse, 150, 0
+10999, dk_cargoshp70_SFS02, dkcargoshp, 150, 128
+11000, crackbuild_SFS, crackfact_sfse, 299, 0
+11001, crackfactjump_SFS, crackfact_sfse, 150, 2097152
+11002, crackfact_SFS, crackfact_sfse, 180, 4
+11003, landbit05_SFS, crackdrive_sfse, 150, 0
+11004, drivingschlgrg_SFS, drivingschool_sfse, 150, 0
+11005, drivingschoolex_SFS, drivingschool_sfse, 150, 0
+11006, LOD_sfs002, lod_sfse, 1400, 0
+11007, LOD_sfs003, lod_sfse, 1400, 0
+11008, LOD_sfs004, lod_sfse, 1400, 0
+11009, LOD_sfs005, lod_sfse, 1400, 0
+11010, LOD_sfs006, lod_sfse, 1400, 0
+11011, LOD_sfs010, lod_sfse, 1400, 0
+11012, LOD_sfs011, lod_sfse, 1400, 0
+11013, LOD_sfs012, lod_sfse, 600, 0
+11014, LOD_sfs013, lod_sfse, 600, 0
+11015, LOD_sfs014, lod_sfse, 600, 2097152
+11016, LOD_sfs015, lod_sfse3, 600, 0
+11017, LOD_sfs016, lod_sfse3, 600, 0
+11018, LOD_sfs017, lod_sfse3, 600, 0
+11019, LOD_sfs018, lod_sfse3, 600, 0
+11020, LOD_sfs019, lod_sfse3, 600, 0
+11021, LOD_sfs020, lod_sfse3, 600, 0
+11022, LOD_sfs021, lod_sfse3, 600, 0
+11023, LOD_sfs022, lod_sfse3, 600, 0
+11024, LOD_sfs023, lod_sfse3, 600, 0
+11025, LOD_sfs024, lod_sfse3, 600, 0
+11026, LOD_sfs026, lod_sfse3, 600, 0
+11027, LOD_sfs027, lod_sfse3, 600, 0
+11028, LOD_sfs028, lod_sfse3, 600, 0
+11029, LOD_sfs029, lod_sfse3, 600, 0
+11030, LOD_sfs030, lod_sfse3, 600, 0
+11031, LOD_sfs031, lod_sfse3, 600, 0
+11032, LOD_sfs032, lod_sfse3, 600, 0
+11033, LOD_sfs033, lod_sfse3, 600, 0
+11034, LOD_sfs034, lod_sfse3, 600, 0
+11035, LOD_sfs035, lod_sfse3, 600, 0
+11036, LOD_sfs036, lod_sfse3, 600, 0
+11037, LOD_sfs037, lod_sfse3, 600, 0
+11038, LOD_sfs047, lod_sfse3, 600, 0
+11039, LOD_sfs049, lod_sfse2, 1500, 0
+11040, LOD_sfs078, lod_sfse2, 1500, 0
+11041, LOD_sfs079, lod_sfse2, 1500, 0
+11042, LODroadsSFSE60, lod_sfse, 600, 0
+11043, LODroadsSFSE62, lod_sfse, 600, 0
+11044, LODroadsSFSE24, lod_sfse, 600, 0
+11045, LODroadsSFSE23, lod_sfse, 600, 0
+11046, LODroadsSFSE38, lod_sfse, 600, 0
+11047, LODroadsSFSE32, lod_sfse3, 600, 0
+11048, LODroadsSFSE43, lod_sfse3, 600, 0
+11049, LODroadsSFSE45, lod_sfse3, 600, 0
+11050, LODroadsSFSE55, lod_sfse3, 600, 0
+11051, LODroadsSFSE36, lod_sfse, 600, 0
+11052, LODroadsSFSE39, lod_sfse3, 600, 0
+11053, LODroadsSFSE58, lod_sfse3, 600, 0
+11054, LODroadsSFSE31, lod_sfse2, 1500, 0
+11055, LODroadsSFSE22, lod_sfse2, 1500, 0
+11056, LODroadsSFSE28, lod_sfse2, 1500, 0
+11057, LODroadsSFSE25, lod_sfse2, 1500, 0
+11058, LODroadsSFSE68, lod_sfse2, 1500, 0
+11059, LODroadsSFSE63, lod_sfse3, 1500, 0
+11060, LODroadsSFSE44, lod_sfse3, 600, 0
+11061, roadsSFSE33, genroads_sfse, 200, 0
+11062, roadsSFSE36, genroads_sfse, 200, 0
+11063, roadsSFSE37, genroads_sfse, 200, 0
+11064, roadsSFSE38, genroads_sfse, 200, 0
+11065, roadsSFSE39, genroads_sfse, 200, 0
+11066, roadsSFSE42, genroads_sfse, 200, 0
+11067, roadsSFSE43, roadsanfranse, 200, 0
+11068, roadsSFSE44, genroads_sfse, 200, 0
+11069, roadsSFSE45, genroads_sfse, 200, 0
+11070, roadsSFSE46, genroads_sfse, 200, 0
+11071, crackfacttanks_SFS, crackfacttanks_sfs, 50, 0
+11072, landbit05b_SFS, crackdrive_sfse, 150, 0
+11073, drivingschlgnd_SFS, crackdrive_sfse, 210, 0
+11074, roadsSFSE47, genroads_sfse, 200, 0
+11075, crack_int1, crack_intkb, 50, 0
+11076, crack_int2, crack_intkb, 50, 4
+11077, crackfactwalk, crackfactwalkb, 80, 4
+11078, CF_ext_dem_SFS, crackfactdem_sfs, 180, 0
+11079, crackfacttanks2_SFS, cf_metals_sfse, 50, 2
+11080, crackfactvats_SFS, cf_metals_sfse, 50, 0
+11081, crackfactfence_SFS, crackfact_sfse, 180, 4
+11082, burgalrystore_SFS, burgalrystore_sfse, 100, 4
+11083, gen_whouse02_SFS, genwhse_sfs, 100, 0
+11084, roadsSFSE49, stadjunct_sfse, 200, 0
+11085, stadbridge_SFS, stadbridge_sfs, 175, 4
+11086, roadsSFSE50, stadjunct_sfse, 205, 0
+11087, vietland_SFS, groundbit_sfse, 205, 0
+11088, roadsSFSE52, genroads_sfse, 200, 0
+11089, drivingschskid_SFS, crackdrive_sfse, 150, 4
+11090, roadsSFSE53, bendytunnel_sfse, 200, 0
+11091, newtunnelrail_SFS, bendytunnel_sfse, 100, 4
+11092, burgalrydoor_SFS, burgalrystore_sfse, 50, 2048
+11093, cfsmashwin1_SFS, crack_int_sfse, 100, 4
+11094, newsfsroad, mountroads_sfse, 299, 0
+11095, roadsSFSE54, genroads_sfse, 200, 0
+11096, landy, landsfe, 270, 0
+11097, landy2, landsfe, 200, 0
+11098, lodlandy03, lod_sfse2, 1500, 0
+11099, lodlandy04, lod_sfse2, 1500, 0
+11100, roadsSFSE55, genroads_sfse, 150, 0
+11101, roadsSFSE57, roadsanfranse, 200, 0
+11102, roadsSFSE58, genroads_sfse, 200, 0
+11103, roadsSFSE59, genroads_sfse, 200, 0
+11104, roadsSFSE60, genroads_sfse, 200, 0
+11105, roadsSFSE61, genroads_sfse, 200, 0
+11106, roadsSFSE62, genroads_sfse, 200, 0
+11107, roadsSFSE63, freeways_sfse, 200, 0
+11108, roadsSFSE64, fosterroads_sfse, 200, 0
+11109, roadsSFSE65, fosterroads_sfse, 200, 0
+11110, roadsSFSE66, fosterroads_sfse, 200, 0
+11111, roadsSFSE68, fosterroads_sfse, 200, 0
+11112, roadsSFSE69, fosterroads_sfse, 200, 0
+11113, roadsSFSE70, fosterroads_sfse, 200, 0
+11114, roadsSFSE71, genroads_sfse, 200, 0
+11115, roadsSFSE72, freeways_sfse, 200, 0
+11116, roadsSFSE73, freeways3_sfse, 200, 0
+11117, roadsSFSE74, genroads_sfse, 200, 0
+11118, roadsSFSE75, freeways_sfse, 200, 0
+11119, roadsSFSE76, freeways_sfse, 200, 0
+11120, roadsSFSE77, freeways_sfse, 200, 0
+11121, roadsSFSE78, freeways_sfse, 200, 0
+11122, roadsSFSE79, freeways_sfse, 200, 0
+11123, roadsSFSE80, freeways_sfse, 200, 0
+11124, roadsSFSE81, freeways_sfse, 200, 0
+11125, roadsSFSE82, freeways2_sfse, 200, 0
+11126, roadsSFSE83, freeways2_sfse, 200, 0
+11127, roadsSFSE84, freeways_sfse, 200, 0
+11128, roadsSFSE51, genroads_sfse, 200, 0
+11129, firehouseland_SFS, firehouse_sfse, 200, 0
+11130, LODdbit06_SFS, lod_sfse3, 600, 0
+11131, LODcon09_SFS, lod_sfse2, 1500, 0
+11132, LODground_02_SFS, lod_sfse2, 1500, 0
+11133, LODhub_SFS, lod_sfse, 600, 0
+11134, LODoundbit84_SFS, lod_sfse, 600, 0
+11135, CARRIER_LOWDECK_SFS, carrierint_sfs, 180, 2097152
+11136, CARRIER_HANGAR_SFS, carrierint_sfs, 160, 0
+11137, acpipes1_SFS, carrierint_sfs, 100, 0
+11138, acpipes2_SFS, carrierint_sfs, 160, 0
+11139, accorridors_SFS, carrierint_sfs, 100, 2097152
+11140, ab_ACC_control, ab_acc_control, 100, 0
+11141, LODsion_09_SFS, lod_sfse3, 600, 0
+11142, LODadsSFSE49, lod_sfse3, 600, 0
+11143, LODingschlgnd_SFS, lod_sfse3, 600, 0
+11144, LODdbit05_SFS, lod_sfse3, 600, 0
+11145, LODdbit05b_SFS, lod_sfse3, 600, 0
+11146, LODvingsch_SFS, lod_sfse3, 600, 0
+11147, LODetland_SFS, lod_sfse3, 600, 0
+11148, LODndbit04_SFS, lod_sfse2, 1500, 0
+11149, lodunction_06_SFSe, lod_sfse, 1400, 0
+11150, LODehouseland_SFS, lod_sfse3, 600, 0
+11151, LODsion_17_SFS, lod_sfse3, 600, 0
+11152, LOD_whouse02_SFS, lod_sfse3, 600, 0
+11153, LODgalrystore_SFS, lod_sfse3, 600, 0
+11154, LODpobj_SFS03, lod_sfse3, 600, 0
+11155, LODundbit_70_SFS, lod_sfse, 600, 0
+11156, LODundbit_06_SFS, lod_sfse3, 600, 0
+11157, LODcon11_SFS, lod_sfse2, 1500, 0
+11158, LODcon12_SFS, lod_sfse2, 1500, 0
+11159, LODjunction_05_SFSe, lod_sfse, 600, 0
+11160, LODroadsSFSE47, lod_sfse3, 600, 0
+11161, LODroadsSFSE61, lod_sfse, 600, 0
+11162, LODroadsSFSE37, lod_sfse, 600, 0
+11163, LODroadsSFSE33, lod_sfse, 600, 0
+11164, LODroadsSFSE30, lod_sfse, 600, 0
+11165, LODroadsSFSE57, lod_sfse3, 600, 0
+11166, LODroadsSFSE42, lod_sfse, 600, 0
+11167, LODroadsSFSE52, lod_sfse3, 600, 0
+11168, LODroadsSFSE46, lod_sfse3, 600, 0
+11169, LODroadsSFSE13, lod_sfse, 1400, 0
+11170, LODroadsSFSE74, lod_sfse, 1400, 0
+11171, LODroadsSFSE20, lod_sfse, 600, 0
+11172, LODroadsSFSE19, lod_sfse, 600, 0
+11173, LODroadsSFSE53, lod_sfse, 600, 0
+11174, LODroadsSFSE16, lod_sfse, 1400, 0
+11175, LODroadsSFSE18, lod_sfse3, 600, 0
+11176, LODroadsSFSE09, lod_sfse3, 1400, 0
+11177, LODroadsSFSE11, lod_sfse3, 600, 0
+11178, LODroadsSFSE10, lod_sfse3, 600, 0
+11179, LODroadsSFSE71, lod_sfse3, 600, 0
+11180, LODroadsSFSE07, lod_sfse2, 600, 0
+11181, LODroadsSFSE26, lod_sfse2, 1500, 0
+11182, LODroadsSFSE70, lod_sfse2, 600, 0
+11183, LODroadsSFSE69, lod_sfse2, 600, 0
+11184, LODroadsSFSE64, lod_sfse2, 600, 0
+11185, LODroadsSFSE65, lod_sfse2, 1500, 0
+11186, LODroadsSFSE66, lod_sfse2, 1500, 0
+11187, LODroadsSFSE59, lod_sfse3, 600, 0
+11188, LODroadsSFSE51, lod_sfse3, 600, 0
+11189, LODroadsSFSE29, lod_sfse3, 1500, 0
+11190, LODroadsSFSE82, lod_sfse2, 600, 0
+11191, LODroadsSFSE27, lod_sfse2, 1200, 0
+11192, LODroadsSFSE83, lod_sfse2, 1200, 0
+11193, LODroadsSFSE84, lod_sfse2, 1200, 0
+11194, LODroadsSFSE21, lod_sfse, 600, 0
+11195, LODroadsSFSE12, lod_sfse, 1400, 0
+11196, LODroadsSFSE03, lod_sfse3, 600, 0
+11197, LODroadsSFSE77, lod_sfse3, 600, 0
+11198, LODroadsSFSE79, lod_sfse3, 600, 0
+11199, LODroadsSFSE05, lod_sfse3, 1500, 0
+11200, LODroadsSFSE80, lod_sfse2, 1500, 0
+11201, LODroadsSFSE50, lod_sfse3, 600, 0
+11202, LODroadsSFSE73, lod_sfse, 600, 0
+11203, LODroadsSFSE54, lod_sfse2, 1500, 0
+11204, LODAirport_07_SFSe, lod_sfse2, 1400, 0
+11205, LODAirport_08_SFSe, lod_sfse3, 1400, 0
+11206, LOD_trax_SFSe10, lod_sfse3, 800, 0
+11207, LODstation03_SFS, lod_sfse3, 600, 0
+11208, LODerfreeway_SFSe, lod_sfse2, 1500, 0
+11209, LOD_trax_SFSe02, lod_sfse3, 600, 0
+11210, LOD_trax_SFSe03, lod_sfse3, 1500, 0
+11211, LOD_trax_SFSe04, lod_sfse2, 1500, 0
+11212, lodroadsSFSE48, lod_sfse3, 600, 0
+11213, hubhole1_SFSe, hubhole_sfse, 150, 0
+11214, hubhole2_SFSe, hubhole_sfse, 150, 0
+11215, hubhole3_SFSe, hubhole_sfse, 50, 0
+11216, hubhole4_SFSe, hubhole_sfse, 50, 0
+11217, LODcarpark_01_SFSe, airportcpark_sfse, 600, 0
+11218, traintrax01b_SFS, traingen_sfse, 200, 0
+11219, traintrax01c_SFS, traingen_sfse, 200, 0
+11220, traintrax01d_SFS, traingen_sfse, 200, 0
+11221, traintrax03b_SFS, traingen_sfse, 200, 0
+11222, traintrax03c_SFS, traingen_sfse, 200, 0
+11223, crackfactwalkb, crackfactwalkb, 80, 4
+11224, crackfactwalkc, crackfactwalkb, 80, 4
+11225, crackfactwalkd, crackfactwalkb, 80, 4
+11226, crackfactwalke, crackfactwalkb, 80, 4
+11227, CARRIER_Bits_SFSe, carrier_sfse, 100, 0
+11228, dockbarrier2z_SFSe, docks2_sfse, 150, 0
+11229, dockbarrier2zb_SFSe, docks2_sfse, 150, 0
+11230, dockbarrier2zc_SFSe, docks2_sfse, 150, 0
+11231, dockbarrier2zd_SFSe, docks2_sfse, 150, 0
+11232, dockbarrier2ze_SFSe, docks2_sfse, 150, 0
+11233, wall_cm_firehse, firehouse_sfse, 200, 0
+11234, gen_whouse02_SFS01, factorynewsfse, 100, 0
+11235, sfsefirehseflag, firehouse_sfse, 200, 0
+11236, SFSETREEBIT, lod_sfse3, 600, 0
+11237, TREEBIT21, roadsanfranse, 200, 0
+11238, LODbaybridge4_SFSe, lod_sfse, 1400, 0
+11239, LODbaybridge1_SFSe, lod_sfse, 1400, 0
+11240, LODbaybridge2_SFSe, lod_sfse, 1400, 0
+11241, LODbaybridge3_SFSe, lod_sfse, 1400, 0
+11242, railbridge04_sfse, railbridge_sfse, 200, 0
+11243, railbridge08_sfse, railbridge_sfse, 230, 4
+11244, railbridge06_sfse, railbridge_sfse, 230, 4
+11245, railbridge03_sfse, traintunnel1_sfse, 200, 2097152
+11246, railbridge09_sfse, railbridge_sfse, 200, 0
+11247, railbridge05_sfse, railbridge_sfse, 299, 4
+11248, railbridge01_sfse, railbridge_sfse, 200, 0
+11249, railbridge07_sfse, railbridge_sfse, 299, 4
+11250, railbridge02_sfse, railbridge_sfse, 200, 0
+11251, railbridge10_sfse, railbridge_sfse, 299, 4
+11252, LODbridge03_sfse, lod_sfse, 1400, 0
+11253, LODrailbge08_sfse, lod_sfse, 600, 2097156
+11254, LODrailbge09_sfse, lod_sfse, 1400, 2097152
+11255, LODrailbge01_sfse, lod_sfse, 1400, 2097152
+11256, LODrailbge02_sfse, lod_sfse, 1400, 2097152
+11257, LODrailbge04_sfse, lod_sfse, 1400, 2097152
+11258, LODrailbge06_sfse, lod_sfse, 600, 2097156
+11259, LOD_whouse02_SFS01, lod_sfse3, 600, 0
+11260, LODcrackfact_SFS, lod_sfse3, 600, 0
+11261, LODckfacttanks_SFS, lod_sfse3, 600, 0
+11262, lod_firehousesfse, lod_sfse3, 600, 0
+11263, LOD_trax_SFSe01, lod_sfse3, 600, 0
+11264, LOD_trax_SFSe06, lod_sfse3, 600, 0
+11265, LOD_trax_SFSe07, lod_sfse3, 800, 0
+11266, LOD_trax_SFSe05, lod_sfse3, 800, 0
+11267, LOD_trax_SFSe08, lod_sfse3, 600, 0
+11268, LODroadsSFSE81, lod_sfse2, 1200, 0
+11269, LOD_hubGARAGE, lod_sfse3, 600, 0
+11270, crackhseskid, crackdrive_sfse, 150, 4
+11271, LOD_garage2sfse, lod_sfse, 600, 0
+11272, LODext_dem_SFS, lod_sfse3, 600, 2097152
+11273, Airport_14B_SFSe, docks2_sfse, 200, 0
+11274, LODport_14C_SFSe, lod_sfse3, 1400, 0
+11275, Airport_14C_SFSe, docks2_sfse, 150, 0
+11276, LODjunct_10b_SFSe, lod_sfse, 1400, 0
+11277, bigjunct_10B_SFSe, docks2_sfse, 200, 0
+11278, bigjuncT_10_SFSe, docks2_sfse, 200, 0
+11279, posters, posterssfse, 50, 4
+11280, facttanks_SFSe04, crackfacttanks_sfs, 50, 0
+11281, LODfacttanks_SFSe04, lod_sfse3, 600, 0
+11282, gasstatiohut, xenon_sfse, 75, 2097152
+11283, facttanks_SFSe08, crackfacttanks_sfs, 50, 0
+11284, LODfacttanks_SFSe08, lod_sfse, 600, 0
+11285, facttanks_SFSe09, crackfacttanks_sfs, 50, 0
+11286, LODfacttanks_SFSe09, lod_sfse, 600, 0
+11287, Groundbit82_SFS, groundbit_sfse, 299, 0
+11288, LODroadsSFSE40, lod_sfse, 600, 0
+11289, roadsSFSE40, genroads_sfse, 200, 0
+11290, LODundbit82_SFS, lod_sfse, 600, 0
+11291, carshow4_SFSe, carshow_sfse, 150, 2097152
+11292, roadsSFSE17, freeways3_sfse, 200, 0
+11293, bigjunction_15_SFSe, groundbit_sfse, 200, 0
+11294, lodjunction_15_SFSe, lod_sfse3, 600, 0
+11295, station, station_sfse, 150, 0
+11296, station05_SFS, trainplatform_sfse, 200, 64
+11297, LODroadsSFSE41, lod_sfse, 600, 0
+11298, roadsSFSE41, genroads_sfse, 200, 0
+11299, LODroadsSFSE17, lod_sfse, 600, 0
+11300, LOD_trax_SFSe09, lod_sfse3, 600, 0
+11301, LODation06_SFS, lod_sfse3, 600, 0
+11302, modshop2_SFSe, carshow_sfse, 50, 0
+11303, modshopdoor_SFSe, carshow_sfse, 150, 2048
+11304, modshopint2_SFSe, carshow2_sfse, 20, 0
+11305, sprayshopint_SFSe, sprayshp_sfse, 100, 0
+11306, Carshow3_SFSe, carshow_sfse, 120, 0
+11307, carshow_SFSe, carshow_sfse, 120, 0
+11308, Carshow2_SFSe, carshow_sfse, 150, 0
+11309, sprayshpdr2_SFSe, carshow_sfse, 150, 2048
+11310, LOD_carshow4_SFSe, lod_sfse, 600, 0
+11311, lod_carshow_SFSe, lod_sfse, 600, 0
+11312, lod_Carshow2_SFSe, lod_sfse, 600, 0
+11313, lod_Carshow3_SFSe, lod_sfse, 600, 0
+11314, station_lights, station_sfse, 50, 140
+11315, lod_junctxnon9SFSe, lod_sfse, 600, 0
+11316, Sfse_hublockup, oldgarage_sfse, 175, 4
+11317, sfse_hub_grgdoor02, oldgarage_sfse, 175, 2048
+11318, Lod_hublockup, lod_sfse, 600, 0
+11319, LOD_CARSHIP05, lod_sfse3, 1400, 0
+11320, LODcarship_03, lod_sfse3, 600, 0
+11321, lod_carshipbase, lod_sfse3, 1400, 0
+11322, dkgrassbitsfse, groundbit_sfse, 200, 0
+11323, LODdkgsssfse, lod_sfse3, 1400, 0
+11324, recroomstuff, recroomsfse, 70, 0
+11325, sfselandy2, landsfe, 200, 0
+11326, lodLANDY, lod_sfse2, 1500, 0
+11327, Stunnel_1A_SFSe, traintunnel2_sfse, 200, 0
+11328, lod_cuntwlnd26, lod_sfse2, 1200, 0
+11329, LOD_hubSFSE2, lod_sfse, 600, 0
+11330, hub02_SFSe, hub_sfse, 150, 0
+11331, lod_newsfroad, lod_sfse2, 1500, 0
+11332, southtunnel_03_SFS, traintunnel2_sfse, 180, 0
+11333, southtunnel_03A_SFS, traintunnel2_sfse, 200, 0
+11334, LOD_Stunnel_03_SFS, lod_sfse2, 1500, 0
+11335, roadsSFSE35, genroads_sfse, 200, 0
+11336, LODroadsSFSE35, lod_sfse, 600, 0
+11337, LODroadsSFSE34, lod_sfse, 600, 0
+11338, LODroadsfse76, lod_sfse3, 600, 0
+11339, LODroadsSFSE75, lod_sfse3, 600, 0
+11340, lod_stadbridge_SFS, lod_sfse3, 600, 0
+11341, roadsSFSE48, stadjunct_sfse, 200, 0
+11342, StationStuff, stationsfse_1, 50, 4
+11343, station5new, station_sfse, 150, 0
+11344, lodstation5NEW, lod_sfse3, 600, 0
+11345, LOD_stuff07_sfse, lod_sfse, 600, 0
+11346, LODtrainstuff37, lod_sfse, 800, 0
+11347, LODstunnel3a, lod_sfse2, 1500, 0
+11348, LODstunnel1A, lod_sfse2, 1400, 0
+11349, oldgrgedoor3_sfse, oldgarage_sfse, 100, 0
+11350, oldgrgedoor4_sfse, oldgarage_sfse, 100, 0
+11351, LODport_14B_SFSe, lod_sfse3, 1400, 0
+11352, Silicon11_land, silicon2_sfse, 280, 0
+11353, Silicon11_land2, silicon2_sfse, 280, 0
+11354, Silicon09A_SFS, silicon_sfse, 299, 0
+11355, roadsSFSE67, fosterroads_sfse, 200, 0
+11356, LODroadsSFSE67, lod_sfse2, 600, 0
+11357, airprtgnd_ct_SFSe, airportgnd_sfse, 299, 0
+11358, LODprtgnd_ct_SFSe, lod_sfse69, 1400, 0
+11359, LODcarpark_11_SFSe, lod_sfse69, 1400, 0
+11360, LODicon09B_SFS, lod_sfse2, 1500, 0
+11361, LODvingschoolex_SFS, lod_sfse3, 600, 0
+11362, LODvingschlgrg_SFS, drivingschool_sfse, 150, 2097152
+11363, LODprtgnd_02_SFSe, lod_sfse2, 1400, 0
+11364, accorail_SFS, carrierint_sfs, 100, 2097156
+11365, LODreeway3_SFSe, lod_sfse, 600, 0
+11366, LODckfactjump_SFS, lod_sfse3, 600, 0
+11367, lodthtunnel_01_SFS, lod_sfse2, 1400, 0
+11368, LODmstran1, lod_sfse2, 1400, 0
+11369, baybALPHA_SFSe, roadbridge_sfse, 200, 4
+11370, baybALPH2_SFSe, roadbridge_sfse, 200, 4
+11371, baybALPH3_SFSe, roadbridge_sfse, 200, 4
+11372, baybALPH4_SFSe, roadbridge_sfse, 200, 4
+11373, jjct02, exitfence_sfse, 120, 0
+11374, cutseen1_sfse, xenon_sfse, 70, 4
+11375, ctscene2_sfse, airportgnd_sfse, 299, 4
+11376, nuroad_sfse, genroads_sfse, 240, 0
+11377, oldgarage_SFS, oldgarage_sfse, 100, 0
+11378, hubintroof_SFSe, newhubgrg1_sfse, 100, 4
+11379, hubinterior_SFS, hubint1_sfse, 100, 0
+11380, hubgirders_SFSE, hubint2, 100, 4
+11381, hubprops6_SFSe, hubprops2_sfse, 100, 0
+11382, hubfloorstains_SFSe, hubprops1_sfse, 100, 4
+11383, hubprops1_SFS, hubprops2_sfse, 100, 0
+11385, corvinsign_SFSe, corvinsign_sfse, 100, 0
+11386, stadiumgates_SFSe, stadium_sfse, 200, 4
+11387, LODstadiumroof_SFS, lod_sfse2, 1500, 0
+11388, lodshod2_SFSe, lod_sfse2, 1500, 0
+11389, lodshod1_SFSe, lod_sfse2, 1500, 0
+11390, acwinch1b_SFS02, carrierint_sfs, 60, 4
+11391, acwinch1b_SFS, carrierint_sfs, 50, 4
+11392, LOD_sfs014roof, lod_sfse, 600, 2097152
+11393, LODfkuc_SFSe, lod_sfse, 600, 0
+11394, lodassbridge_sfse, lod_sfse69, 1400, 0
+11395, lod_03b_SFSe, lod_sfse3, 600, 0
+11396, acwinch1b_SFS01, carrierint_sfs, 100, 4
+11397, lodjunction_08_SFSe, lod_sfse, 1400, 0
+11398, viet_03_SFSe, groundbit_sfse, 150, 0
+11399, roadsSFSE34, genroads_sfse, 200, 0
+11400, hbgdSFS, oldgarage_sfse, 100, 2048
+11404, fosterflowers1, fosterflowers, 80, 132
+11405, fosterflowers02, fosterflowers, 80, 132
+11406, lod_cuntwland37_SFS, lod_sfse2, 1200, 0
+end
+tobj
+10966, drivingsch_SFS, drivingschool_sfse, 150, 0, 0, 23
+11384, hubgrgbeams_SFSe, newhubgrg1_sfse, 100, 4, 7, 17
+11401, nightlights01_SFSE, nightlights_sfse, 550, 4, 20, 6
+11402, nightlights02_SFSE, nightlights_sfse, 550, 4, 20, 6
+11403, nightlights03_SFSE, nightlights_sfse, 550, 4, 20, 6
+end
+path
+end
+2dfx
+end
+anim
+11407 ,xenonsign2_SFSe ,xenon_sfse ,SFSe ,150 ,0
+end
+txdp
+genroads_sfse,sanfranroads
+dockroad_sfse,sanfranroads
+airportroads_sfse,sanfranroads
+stadjunct_sfse,sanfranroads
+fosterroads_sfse,sanfranroads
+bendytunnel_sfse,sanfranroads
+navyroad_sfse,sanfranroads
+freeways3_sfse,sanfranfreeway
+freeways2_sfse,sanfranfreeway
+freeways_sfse,sanfranfreeway
+traindocks_sfse,sanfrantrains
+traintunnel2_sfse,sanfrantrains
+traintunnel1_sfse,sanfrantrains
+trainplatform_sfse,sanfrantrains
+traingen_sfse,sanfrantrains
+ab_acc_control,gb_sf
+aircarpkbarier_sfse,gb_sf
+airfence_sfse,gb_sf
+airport1_sfse,gb_sf
+airport_sfse,gb_sf
+airportbits_sfse,gb_sf
+airportcpark_sfse,gb_sf
+airportgnd_sfse,gb_sf
+airportrminl_sfse,gb_sf
+airroadsigns_sfse,gb_sf
+airwelcome_sfse,gb_sf
+airwelcomesign_sfse,gb_sf
+ap_build4e,gb_sf
+apsecurity_sfse,gb_sf
+bakery_sfse,gb_sf
+bakerybit2_sfse,gb_sf
+bakerybit_sfse,gb_sf
+bigshed_sfse,gb_sf
+blacksky_sfse,gb_sf
+bridgeland_sfse,gb_sf
+burgalrystore_sfse,gb_sf
+car_ship_sfse,gb_sf
+carrier_sfse,gb_sf
+carrierint_sfs,gb_sf
+carshow2_sfse,gb_sf
+carshow_sfse,gb_sf
+cf_metals_sfse,gb_sf
+cityhall_sfse,gb_sf
+corvinsign_sfse,gb_sf
+coveredpath_sfs,gb_sf
+crack_int_sfse,gb_sf
+crack_intkb,gb_sf
+crackdrive_sfse,gb_sf
+crackfact_sfse,gb_sf
+crackfactdem_sfs,gb_sf
+crackfacttanks_sfs,gb_sf
+crackfactwalkb,gb_sf
+demolished1_sfse,gb_sf
+depot_sfse,gb_sf
+dkcargoshp,gb_sf
+dkcargoshpe,gb_sf
+docks2_sfse,gb_sf
+docks2refl_sfse,gb_sf
+drivingschool_sfse,gb_sf
+drydockgate_sfse,gb_sf
+drydockshed_sfse,gb_sf
+exitfence_sfse,gb_sf
+factory_sfse,gb_sf
+factorynewsfse,gb_sf
+firehouse_sfse,gb_sf
+gatehouse_sfse,gb_sf
+genwhse_sfs,gb_sf
+genwhse_sfse,gb_sf
+groundbit_sfse,gb_sf
+hub_sfse,gb_sf
+hubhole_sfse,gb_sf
+hubint1_sfse,gb_sf
+hubint2,gb_sf
+hubprops1_sfse,gb_sf
+hubprops2_sfse,gb_sf
+landsfe,gb_sf
+lod_sfse,gb_sf
+lod_sfse2,gb_sf
+lod_sfse3,gb_sf
+lod_sfse69,gb_sf
+mall_sfse,gb_sf
+midtownshops_sfs,gb_sf
+mission2_sfse,gb_sf
+mission2apts_sfse,gb_sf
+mission3_sfse,gb_sf
+mission3ground_sfse,gb_sf
+mission3z_sfse,gb_sf
+mission4_sfs,gb_sf
+mission_sfse,gb_sf
+mountroads_sfse,gb_sf
+navybasefence,gb_sf
+newhubgrg1_sfse,gb_sf
+oldfreeway_sfse,gb_sf
+oldgarage_sfse,gb_sf
+posterssfse,gb_sf
+railbridge_sfse,gb_sf
+recroomsfse,gb_sf
+roadbridge_sfse,gb_sf
+roadsanfranse,gb_sf
+scum_sfse,gb_sf
+shops2_sfse,gb_sf
+shops2extra_sfse,gb_sf
+shops_sfse,gb_sf
+shopszz_sfse,gb_sf
+silconland_sfse,gb_sf
+silicon2_sfse,gb_sf
+silicon_sfse,gb_sf
+skyscrap_sfse,gb_sf
+skyscrapper_sfs,gb_sf
+sprayshp_sfse,gb_sf
+stadbridge_sfs,gb_sf
+stadium_sfse,gb_sf
+stadiumground_sfse,gb_sf
+station_sfse,gb_sf
+stationsfse_1,gb_sf
+subpen1_sfse,gb_sf
+subpen2_sfse,gb_sf
+wc_lift_sfse,gb_sf
+xenon_sfse,gb_sf
+cuntwland,gb_sf
+cuntwlandcent,gb_sf
+cuntwroad,gb_sf
+cuntwtunnel,gb_sf
+fosterflowers,gb_sf
+lodcunty,gb_sf
+lodlawnland,gb_sf
+nightlights_sfse,gb_sf
+end
