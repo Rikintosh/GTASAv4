@@ -1,5 +1,5 @@
-# The Unofficial
-# Grand Theft Auto San Andreas V4.00
+
+# The Unofficial Grand Theft Auto San Andreas V4.00
 Just a compilation of fixes and improvements for the Playstation 2 version
 
 Since tools were created to modify the Playstation 2 version, I have been trying to fix and improve the PS2 version. In addition to my own fixes that I created for this version, the vast majority of improvements come from mods created by the community, mainly because of MixMods and its maintainer Junior_Djjr. Many changes were made over the years, I myself no longer remember all of them, but I will list the ones I remember now:
